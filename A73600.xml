@@ -1,0 +1,1446 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The beginning of the doctrine of Christ. Or A catalogue of sinnes shewing how a Christian may finde out the euils, hee must take notice of in his repentance. With rules, that shew a course, how any Christian may be deliuered from the guilt and power of all his sinnes. By N. Bifield preacher of Gods Word, at Isleworth in Middlesex.</title>
+            <author>Byfield, Nicholas, 1579-1622.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1619</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 110 KB of XML-encoded text transcribed from 95 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73600</idno>
+            <idno type="STC">STC 4209.5</idno>
+            <idno type="STC">ESTC S124660</idno>
+            <idno type="EEBO-CITATION">99898981</idno>
+            <idno type="PROQUEST">99898981</idno>
+            <idno type="VID">150818</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73600)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150818)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1982:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The beginning of the doctrine of Christ. Or A catalogue of sinnes shewing how a Christian may finde out the euils, hee must take notice of in his repentance. With rules, that shew a course, how any Christian may be deliuered from the guilt and power of all his sinnes. By N. Bifield preacher of Gods Word, at Isleworth in Middlesex.</title>
+                  <author>Byfield, Nicholas, 1579-1622.</author>
+               </titleStmt>
+               <extent>[22], 71, 71-162 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed G. P[urslowe]. for R. Rounthwaite, and are to be sold at his shop in Pauls Church-yard, at the signe of the Flower de-luce and Crowne,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1619.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page is A2.</note>
+                  <note>Includes table of contents.</note>
+                  <note>Reproduction of original in the Harvard University Library, Cambridge, Massachusetts.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Doctrines --  Early works to 1800.</term>
+               <term>Repentance --  Early works to 1800.</term>
+               <term>Sin --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150818:1"/>
+            <p>THE BEGINNING OF THE DOCTRINE of CHRIST. <hi>OR</hi> A Catalogue of ſinnes, ſhewing how a Chriſtian may finde out the euils hee muſt take notice of in his Repentance.</p>
+            <p>With Rules, that ſhew a courſe, how any Chriſtian may be deliuered from the guilt and <hi>power of all his ſinnes.</hi>
+            </p>
+            <p>By N. BIFIELD Preacher of Gods Word, at <hi>Iſleworth</hi> in <hi>Middleſex.</hi>
+            </p>
+            <bibl>LAM. 3. 40.</bibl>
+            <q>Let vs ſearch and try our wayes, and turne againe vnto the Lord.</q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>G. P.</hi> for <hi>R. Rounthwaite,</hi> and are to be ſold at his Shop in <hi>Pauls</hi> Church-yard, at the ſigne of the Flower de-luce and Crowne. 1619.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:150818:2"/>
+            <pb facs="tcp:150818:2"/>
+            <head>TO THE MVCH Honoured Ladies, the Lady ANNE GLEERE, and the Ladie ANNE FINCH, and the Ladie IONE HERICK, <hi>N. Bi<g ref="char:EOLhyphen"/>field</hi> wiſheth all increaſe of the true grace of Chriſt, and the bleſſed fruition of the glory of God in Heauen.</head>
+            <opener>
+               <salute>Worthy Ladies,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">L</seg>Amentable are the ruines, into which the na<g ref="char:EOLhyphen"/>tures of men
+<pb facs="tcp:150818:3"/> are generally fallen by their ſinnes; which ap<g ref="char:EOLhyphen"/>peares eſpecially by the waies men take in the buſi<g ref="char:EOLhyphen"/>neſſe of their ſoule: The moſt men are cleane <hi>out of the way to heauen,</hi> and walke in by-waies of their owne, which are called in Scripture, the <hi>wayes of the wicked;</hi> the <hi>wayes of their owne hearts; Peruerſe wayes; Darke and ſlipperie wayes; The way of iniquitie:</hi> All meeting in that <hi>broad way that leadeth to deſtruction,</hi> being wholly ignorant of the <hi>way of life</hi> and <hi>peace;</hi> yea, the moſt of them <hi>ſpeake euill of the good way
+<pb facs="tcp:150818:3"/> of God,</hi> and perſecute it. Some there are, that are ſo farre inlightned, as not to like the common roade<g ref="char:EOLhyphen"/>way of the multitude; and after ſome inquiry haue found them out <hi>wayes that ſeeme good in their owne eyes;</hi> and they are wonder<g ref="char:EOLhyphen"/>fully well pleaſed with their courſe, but <hi>the iſſues of theſe wayes are death</hi> too, as well as the former: and the more is this danger in<g ref="char:EOLhyphen"/>creaſed vpon men, be<g ref="char:EOLhyphen"/>cauſe the <hi>way of life is</hi> but <hi>one,</hi> and it is a <hi>narrow way,</hi> and hard to finde, and may bee <hi>ſought</hi> by many, and yet <hi>not found:</hi> Yet this
+<pb facs="tcp:150818:4"/> hope is left vnto forlorne men, that there is a way to heauen and happineſſe: A <hi>way of righteouſneſſe</hi> and peace, <hi>a way of mercy and truth,</hi> of <hi>wiſedome:</hi> A way that men may <hi>ſecurely</hi> and ſafely walke in; a way, in which Chriſt will <hi>guide them,</hi> God the Father will <hi>keepe them,</hi> and the holy Ghoſt <hi>leade them</hi> by the hand, and direct them in all the paſſages thereof: Onely it concerneth vs <hi>to aske the way,</hi> with all im<g ref="char:EOLhyphen"/>portunity, of God, and to attend vnto the directions of the word of God, and apply our hearts, and ſuf<g ref="char:EOLhyphen"/>fer
+<pb facs="tcp:150818:4"/> our ſelues to bee <hi>diſpo<g ref="char:EOLhyphen"/>ſed aright,</hi> that <hi>our eyes may ſee the ſaluation of God:</hi> and in particular we muſt look to three things: Firſt, that if the Lord ſhew vs that mercy to direct vs in the way, wee muſt take heed that wee neglect not, or deſpiſe not the care of wal<g ref="char:EOLhyphen"/>king in the way: Second<g ref="char:EOLhyphen"/>ly, that with all diligence we auoide <hi>going about,</hi> and make <hi>ſtraight ſteps to our feet:</hi> and thirdly, with all feare watch our ſelues, that wee <hi>fall not</hi> off with <hi>the errours of the wicked,</hi> from the good way of God, and ſo our latter end bee
+<pb facs="tcp:150818:5"/> worſe then our beginning.</p>
+            <p>I haue vndertaken by the aſſiſtance of God, and the directions of his bleſ<g ref="char:EOLhyphen"/>ſed Word, to ſingle out the choiſeſt things I could finde in the Scriptures, concerning the entrance into this way of God, and thoſe firſt pathes which are called holy. The ſubſtance of theſe directi<g ref="char:EOLhyphen"/>ons I haue digeſted into the Treatiſe following, which I dedicate vnto your Ladiſhips, as a teſti<g ref="char:EOLhyphen"/>mony of my thankfulneſſe, for the reſpect you haue ſhewed vnto my Miniſte<g ref="char:EOLhyphen"/>rie, both in your conſtant
+<pb facs="tcp:150818:5"/> reſort vnto it in the weeke daies, while you liued in a neighbour Pariſh; and in that two of you are plea<g ref="char:EOLhyphen"/>ſed to come to liue a<g ref="char:EOLhyphen"/>mongſt vs, and ſo are be<g ref="char:EOLhyphen"/>come a part of my charge; as alſo to mani<g ref="char:EOLhyphen"/>feſt to the world my ob<g ref="char:EOLhyphen"/>ſeruance of your Ladi<g ref="char:EOLhyphen"/>ſhips, for the good report you haue amongſt the godly for the grace of Ie<g ref="char:EOLhyphen"/>ſus Chriſt, and your vn<g ref="char:EOLhyphen"/>faigned loue of the truth: Beſeeching your <hi>Accepta<g ref="char:EOLhyphen"/>tion, Peruſall,</hi> and <hi>Patronage</hi> of theſe, I take my leaue, and commend your Ladi<g ref="char:EOLhyphen"/>ſhips to the <hi>God of mercy</hi>
+               <pb facs="tcp:150818:6"/> and <hi>truth,</hi> who guide, comfort, deliuer, ſanctifie, and preſerue you all vnto the Day of Ieſus Chriſt.</p>
+            <closer>
+               <signed>Your Ladiſhips to bee commanded in Chriſt Ieſus, N. BIFIELD.</signed> 
+               <dateline>
+                  <date>Febr. 12. 1619.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:150818:6"/>
+            <head>The chiefeſt things contained in the firſt <hi>BOOKE.</hi>
+            </head>
+            <list>
+               <head>CHAP. I.</head>
+               <item>
+                  <hi>THE Contents of all the ſix Treatiſes, briefly ſet downe, pag. 1. to the</hi> 11</item>
+               <item>
+                  <hi>The perſons whom thoſe Treatiſes concerne, pag.</hi> 11. 12</item>
+               <item>
+                  <hi>Incouragement to the ſtudy of thoſe things, p. 13. to</hi> 18</item>
+               <pb facs="tcp:150818:7"/>
+               <item>
+                  <hi>Generall directions by way of preparation, p. 18. to</hi> 22</item>
+            </list>
+            <list>
+               <head>CHAP. II.</head>
+               <item>
+                  <hi>THe rules that ſhew diſ<g ref="char:EOLhyphen"/>tinctly what men muſt doe about their ſins. p. 22 to</hi> 59</item>
+               <item>
+                  <hi>Motiues to perſwade to the care of theſe rules. pag.</hi> 23. 24</item>
+               <item>
+                  <hi>Three rules of preparation. pag.</hi> 24. 25. 26</item>
+               <item>
+                  <hi>Foure things deliuer vs from all ſinnes paſt. p.</hi> 27</item>
+               <item>
+                  <hi>About the gathering of the Catalogue of ſins. p. 27. to</hi> 35</item>
+               <item>
+                  <hi>About the confeſsion of our
+<pb facs="tcp:150818:7"/> ſinnes. p. 35. to</hi> 38</item>
+               <item>
+                  <hi>About ſorrow for our ſinnes, and how it may bee attai<g ref="char:EOLhyphen"/>ned. p. 38. to</hi> 43</item>
+               <item>
+                  <hi>About the application of the promiſes, and how it may be done. p. 43. 44. 45. to</hi> 51</item>
+               <item>
+                  <hi>The ſpeciall promiſes made to ſuch as haue confeſſed and ſorrowed for their ſinnes. p.</hi> 46. 47. 48</item>
+               <item>
+                  <hi>How men may know, whether their confeſsion and ſor<g ref="char:EOLhyphen"/>row for their ſinnes bee right or no. p.</hi> 52. 53. 54</item>
+               <item>
+                  <hi>Three ſorts of men may pro<g ref="char:EOLhyphen"/>fite by theſe Directions. p.</hi> 55</item>
+               <item>
+                  <hi>Other vſes of the Catalogue of ſinnes. p.</hi> 56</item>
+               <pb facs="tcp:150818:8"/>
+               <item>
+                  <hi>The miſery of ſuch as will not be aduiſed to take a ſound courſe about their ſinnes. p.</hi> 57</item>
+            </list>
+            <list>
+               <head>CHAP. III.</head>
+               <item>
+                  <hi>THE ſinnes againſt the whole Law; where, of originall ſinne, igno<g ref="char:EOLhyphen"/>rance, procraſtination, vaine-glory, ſecurity, hy<g ref="char:EOLhyphen"/>pocriſie, ſelfe-loue, incon<g ref="char:EOLhyphen"/>ſtancy, &amp;c. p. 59. to</hi> 67</item>
+            </list>
+            <list>
+               <head>CHAP. IIII.</head>
+               <item>
+                  <hi>THE diuiſion of the ſinnes againſt the firſt Table, and the ſorts
+<pb facs="tcp:150818:8"/> of ſinnes againſt Gods Nature.</hi>
+               </item>
+               <item>
+                  <hi>Seuen monſtrous offences. pa.</hi> 68. 69</item>
+               <item>
+                  <hi>Of naturall Atheiſme, pag. 70. 71. and Epicuriſme. p.</hi> 72</item>
+               <item>
+                  <hi>Of the defects of grace, and the miſ-placing of our af<g ref="char:EOLhyphen"/>fections. p.</hi> 7<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 7<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>
+                  <hi>How many wayes men ſinne againſt the mercy of God, pag. 74. 75. and the feare of God, pag. 78. 79. and the trust in God. pag.</hi> 80</item>
+            </list>
+            <list>
+               <head>CHAP. V.</head>
+               <item>
+                  <hi>HOw many wayes men offend against the
+<pb facs="tcp:150818:9"/> meanes of Gods worſhip.</hi>
+               </item>
+               <item>
+                  <hi>How many wayes men of<g ref="char:EOLhyphen"/>fend.</hi>
+               </item>
+               <item>
+                  <hi>By not worſhipping. p.</hi> 83. 84</item>
+               <item>
+                  <hi>By will-worſhipping. p.</hi> 85. 86</item>
+               <item>
+                  <hi>By Idol worſhipping. p.</hi> 87. 88</item>
+            </list>
+            <list>
+               <head>CHAP. VI.</head>
+               <item>
+                  <hi>HOw many wayes men ſin againſt the man<g ref="char:EOLhyphen"/>ner of Gods worſhip.</hi>
+               </item>
+               <item>
+                  <hi>Offences that may bee com<g ref="char:EOLhyphen"/>mitted in the manner of doing any part of Gods ſeruice. pag.</hi> 91</item>
+               <item>
+                  <hi>Sinnes in hearing. p.</hi> 92</item>
+               <item>
+                  <hi>Sinnes in prayer. p.</hi> 93</item>
+               <item>
+                  <hi>Sins about the Sacraments. p.</hi> 94</item>
+               <pb facs="tcp:150818:9"/>
+               <item>
+                  <hi>Sinnes about an oath. p.</hi> 95</item>
+            </list>
+            <list>
+               <head>CHAP. VII.</head>
+               <item>
+                  <hi>SInnes about the time of Gods worſhip.</hi>
+               </item>
+               <item>
+                  <hi>The ſecret offences against the Sabbath. p.</hi> 96</item>
+               <item>
+                  <hi>The open breaches of the Sabbath. p.</hi> 97</item>
+            </list>
+            <list>
+               <head>CHAP. VIII.</head>
+               <item>
+                  <hi>THE diuiſions of the ſins againſt the ſecond Table.</hi>
+               </item>
+               <pb facs="tcp:150818:10"/>
+               <item>
+                  <hi>The ſins</hi>
+                  <list>
+                     <item>
+                        <hi>Of wiues and huſ<g ref="char:EOLhyphen"/>bands. p.</hi> 101</item>
+                     <item>
+                        <hi>Of children and parents. p.</hi> 102. 103</item>
+                     <item>
+                        <hi>Of ſeruants and Maſters. p.</hi> 105 106</item>
+                     <item>
+                        <hi>Of Subiects and Magiſtrates. p.</hi> 107</item>
+                     <item>
+                        <hi>Of Hearers and their Miniſ<g ref="char:EOLhyphen"/>ters. p.</hi> 108</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>CHAP. IX.</head>
+               <item>
+                  <hi>SInnes againſt the perſons of men;</hi>
+               </item>
+               <item>1. <hi>By omiſsion. p.</hi> 100</item>
+               <pb facs="tcp:150818:10"/>
+               <item>2. <hi>By commiſsion; where</hi>
+               </item>
+               <item>
+                  <hi>The ſinnes internall. pa. 111. to</hi> 116</item>
+               <item>
+                  <hi>The ſinnes externall:</hi>
+               </item>
+               <item>
+                  <hi>In geſture. p.</hi> 116</item>
+               <item>
+                  <hi>In words. p.</hi> 117. 118</item>
+               <item>
+                  <hi>In works. p.</hi> 119. 120. 121</item>
+               <item>
+                  <hi>How we ſinne againſt the bo<g ref="char:EOLhyphen"/>dies of men. p.</hi> 122</item>
+               <item>
+                  <hi>How againſt the ſoules of men. p. 123. to</hi> 128</item>
+            </list>
+            <list>
+               <head>CHAP. X.</head>
+               <item>
+                  <hi>THE ſinnes againſt chaſ<g ref="char:EOLhyphen"/>tity.</hi>
+               </item>
+               <item>
+                  <hi>In the groſſe acts. p.</hi> 129. 130</item>
+               <item>
+                  <hi>In the thoughts and affecti<g ref="char:EOLhyphen"/>ons, and ſenſes and geſ<g ref="char:EOLhyphen"/>tures, and words. p.</hi> 131</item>
+               <pb facs="tcp:150818:11"/>
+               <item>
+                  <hi>The occaſions of vncleane<g ref="char:EOLhyphen"/>neſſe. p.</hi> 132. 133. 134</item>
+            </list>
+            <list>
+               <head>CHAP. XI.</head>
+               <item>
+                  <hi>SInnes againſt the eſtates of men:</hi>
+               </item>
+               <item>
+                  <hi>Internall. p.</hi> 136</item>
+               <item>
+                  <hi>Externall:</hi>
+               </item>
+               <item>
+                  <hi>Of omiſsion. p.</hi> 137. 138</item>
+               <item>
+                  <hi>Of commiſsion, where the ſeuerall wayes of ſtealing. pag. 139. 140. with the aggrauations, to p.</hi> 145</item>
+            </list>
+            <list>
+               <head>CHAP. XII.</head>
+               <item>
+                  <hi>SInnes againſt the good names of men.</hi>
+               </item>
+               <pb facs="tcp:150818:11"/>
+               <item>
+                  <hi>By omiſsion. p.</hi> 146</item>
+               <item>
+                  <hi>By commiſsion:</hi>
+               </item>
+               <item>
+                  <hi>Internally. p.</hi> 147</item>
+               <item>
+                  <hi>Externally. pa. 148: to</hi> 153</item>
+            </list>
+            <list>
+               <head>CHAP. XIII.</head>
+               <item>
+                  <hi>OF the ſinnes without conſent. p.</hi> 154</item>
+            </list>
+            <list>
+               <head>CHAP. XIIII.</head>
+               <item>
+                  <hi>HOw many wayes men offend againſt the Goſpell.</hi>
+               </item>
+               <item>
+                  <hi>Sinnes againſt Chriſt. pag.</hi> 156. 157</item>
+               <item>
+                  <hi>Sinnes against repentance. pag.</hi> 158. 159</item>
+               <pb facs="tcp:150818:12"/>
+               <item>
+                  <hi>Sinnes againſt faith. page</hi> 160</item>
+               <item>
+                  <hi>Sinnes againſt the Spirit of grace. pag.</hi> 161</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:150818:12"/>
+            <head>THE PREFACE to the Reader, <hi>contai<g ref="char:EOLhyphen"/>ning the ſcope of all the ſixe</hi> Treatiſes, and certaine Ge<g ref="char:EOLhyphen"/>nerall things, which by way of <hi>Introduction</hi> be<g ref="char:EOLhyphen"/>long vnto them all.</head>
+            <p>
+               <seg rend="decorInit">F</seg>OR thy ſake (<hi>Chriſtian Rea<g ref="char:EOLhyphen"/>der</hi>) I haue bin willing to pre<g ref="char:EOLhyphen"/>pare for the Preſſe ſixe lit<g ref="char:EOLhyphen"/>tle Treatiſes, which may informe thee of ſixe things
+<pb n="2" facs="tcp:150818:13"/> of the greateſt co<g ref="char:cmbAbbrStroke">̄</g>ſequence, that I know can concerne thee in this life; &amp; though I haue reaſon to abaſe my ſelfe in the acknowledge<g ref="char:EOLhyphen"/>ment of mine owne frailty, and inſufficiency for theſe things, yet thou haſt cauſe to awaken to the conſide<g ref="char:EOLhyphen"/>ration of the matter, which ſo neerly concerneth thee, vſing the helpe of this la<g ref="char:EOLhyphen"/>bour, till God afford thee better helpes from more a<g ref="char:EOLhyphen"/>ble inſtruments. The mat<g ref="char:EOLhyphen"/>ter in all of them is ſo ne<g ref="char:EOLhyphen"/>ceſſary, that I know not which of them thou mayſt ſafely neglect.</p>
+            <p n="1">1. The firſt thing which
+<pb n="3" facs="tcp:150818:13"/> any man, diſpoſing himſelf<note place="margin">The Con<g ref="char:EOLhyphen"/>tents of this Trea<g ref="char:EOLunhyphen"/>tiſe.</note> for the kingdome of God, will, and ought to enquire after, is, <hi>What hee ſhould doe to be ridde of thoſe many ſins he hath been, and is guilty of:</hi> rid (I ſay) from the guilt &amp; danger of them, and from the power and dominion of them. For the ſatisfacti<g ref="char:EOLhyphen"/>on of thy Conſcience in this moſt needefull queſti<g ref="char:EOLhyphen"/>on, I haue in this firſt Trea<g ref="char:EOLhyphen"/>tiſe gathered for thee, out of the whole Bible, a <hi>Cata<g ref="char:EOLhyphen"/>logue</hi> of thoſe ſinnes, which in our repentance God wil haue with ſpeciall notice to be confeſſed and auoided: and theſe ſinnes I haue ſet
+<pb n="4" facs="tcp:150818:14"/> downe, as neere as I could, in <hi>the expreſſe words of the Text,</hi> that thou mighteſt ſee the <hi>Lord</hi> himſelf deſcri<g ref="char:EOLhyphen"/>bing thy offences, and ſo mighteſt haue no excuſe or doubt to imagine, that it was but the iudgement of ſome men, that made ſuch things to be thought to be ſinnes. By this courſe of ſurueying the whole Scrip<g ref="char:EOLhyphen"/>tures, I haue both found out diuers particular offen<g ref="char:EOLhyphen"/>ces plainly <hi>prooued</hi> to be ſo, which I could not obſerue to be mentioned in any ex<g ref="char:EOLhyphen"/>poſition of the comman<g ref="char:EOLhyphen"/>dements which I had, and alſo diuers things proued
+<pb n="5" facs="tcp:150818:14"/> cleerely to be ſinnes, which were onely barely affirmed to be ſo in other writers. I haue likewiſe plainly ſhew<g ref="char:EOLhyphen"/>ed thee by <hi>expreſse Scrip<g ref="char:EOLhyphen"/>tures,</hi> what courſe thou maiſt diſtinctly take to bee ridde of thy ſins, a courſe that cannot faile thee, be<g ref="char:EOLhyphen"/>ing grounded on the moſt euident directions, which God himſelfe hath preſcri<g ref="char:EOLhyphen"/>bed vnto thee, if thy owne ſlothfulneſſe and procraſti<g ref="char:EOLhyphen"/>nation, or wilfull peruerſe<g ref="char:EOLhyphen"/>neſſe hinder thee not; and I doubt not, but by experi<g ref="char:EOLhyphen"/>ence thou wilt confeſſe, the courſe is comfortable and eaſie, conſidering the great
+<pb n="6" facs="tcp:150818:15"/> benefit and reſt thou maiſt bring to thy Conſcience thereby.</p>
+            <p n="2">2. The ſecond thing a<note place="margin">The Con<g ref="char:EOLhyphen"/>tents of the ſeco<g ref="char:cmbAbbrStroke">̄</g>d booke.</note> man would deſire to be ſa<g ref="char:EOLhyphen"/>tisfied in, (that hath beene entred into the practice of Repentance) is, <hi>How he might come to bee infallibly aſsured, concerning Gods fa<g ref="char:EOLhyphen"/>uour, and his owne ſaluation;</hi> and for anſwere hereunto, I haue in the ſecond Trea<g ref="char:EOLhyphen"/>tiſe gathered out of the Scriptures, <hi>ſignes</hi> of Gods owne making, by which men may try their eſtate, and theſe <hi>ſuch, as</hi> both <hi>de<g ref="char:EOLhyphen"/>ſcribe wicked men,</hi> not yet in Chriſt, <hi>and</hi> ſuch, as de<g ref="char:EOLhyphen"/>ſcribe
+<pb n="7" facs="tcp:150818:15"/> 
+               <hi>godly men,</hi> that ſhall certainely bee ſaued: and withall, I haue now added directions, how by the help of thoſe ſignes men may fettle their <hi>aſſurance,</hi> and how ſuch, as yet want thoſe ſignes, may attaine them.</p>
+            <p n="3">3. The third thing eue<g ref="char:EOLhyphen"/>ry<note place="margin">The Con<g ref="char:EOLhyphen"/>tents of the third booke.</note> Chriſtian ought to ſeek ſatisfaction in, is this, <hi>How a man, that hath attain'd vn<g ref="char:EOLhyphen"/>to the aſsurance of ſaluation, when hee dyes, may comfort and eſtabliſh his hart againſt all the miſeries and diſtreſses, which may, and will befall him in this life before his death;</hi> and to this end I haue gathered out of the
+<pb n="8" facs="tcp:150818:16"/> whole <hi>Scriptures</hi> thoſe ad<g ref="char:EOLhyphen"/>mirable <hi>conſolations,</hi> which may be aboundantly ſuffi<g ref="char:EOLhyphen"/>cient to vphold him with much ioy in the worſt e<g ref="char:EOLhyphen"/>ſtate can befall him; and this is done in the Treatiſe which I call the <hi>Promiſes.</hi>
+            </p>
+            <p n="4">4. The fourth queſtion a<note place="margin">The Con<g ref="char:EOLhyphen"/>tents of the fourth booke.</note> carefull Chriſtia<g ref="char:cmbAbbrStroke">̄</g>, that hath thus found out the gaine of godlineſſe, would aske, is this, <hi>What hee ſhould do in the whole courſe of his life to glorifie God,</hi> who hath thus loued him, and giuen his Sonne to dye for him, and purchaſed ſuch a glorious Inheritance for him; and for anſwere heereunto, I
+<pb n="9" facs="tcp:150818:16"/> haue likewiſe out of the Scripture garhered <hi>the rules of Life,</hi> which will ſhew him diſtinctly, how hee ſhould carry himſelfe both <hi>towards God,</hi> and <hi>to<g ref="char:EOLhyphen"/>wards men</hi> in all parts of his life; how he ſhould be<g ref="char:EOLhyphen"/>haue himſelfe <hi>at home</hi> and <hi>abroad,</hi> in <hi>company,</hi> and <hi>out of company,</hi> &amp;c. and all this ſhewed him by the <hi>expreſſe words</hi> of the Scriptures.</p>
+            <p n="5">5. In the fift place, If a man aske himſelfe what yet hee wants that is neceſ<g ref="char:EOLhyphen"/>ſary for his ſtate, hee may, and ought to bethink him<g ref="char:EOLhyphen"/>ſelfe of this queſtion; <hi>What are theſe neceſsary trueths,
+<pb n="10" facs="tcp:150818:17"/> which God hath abſolutely ti<g ref="char:EOLhyphen"/>ed him to know and belieue, without which hee cannot be ſaued, and which are funda<g ref="char:EOLhyphen"/>mentally needfull for him.</hi> To this end I haue collected a fift Treatiſe, the <hi>principles</hi> of which are an extract out of all the Doctrine of reli<g ref="char:EOLhyphen"/>gion, of ſuch truths in eue<g ref="char:EOLhyphen"/>ry part of religion, as a man is bound of neceſſity to know; and this I haue not onely <hi>proued</hi> by Scripture, but ſhewed what <hi>vſes</hi> hee may put ſuch knowledge to, all the daies of his life.</p>
+            <p n="6">6. The ſixt &amp; laſt thing which ought to bee enqui<g ref="char:EOLhyphen"/>red after, is, how a man
+<pb n="11" facs="tcp:150818:17"/> thus fitted to liue the life of God, may alſo <hi>bee cured of the feare of death;</hi> and to this end I haue publiſhed that Tretiſe of the Cure of the feare of Death: which ſhewes plaine and comfor<g ref="char:EOLhyphen"/>table wayes, how any Chriſtian may deliuer his heart from thoſe feares.</p>
+            <p>I ſuppoſe that no man<note place="margin">Whom theſe trea<g ref="char:EOLhyphen"/>tiſes con<g ref="char:EOLhyphen"/>cerne.</note> that readeth this, will con<g ref="char:EOLhyphen"/>ceiue, that any of theſe are needleſſe. And as I would aduiſe ſuch Chriſtians as a<g ref="char:EOLhyphen"/>bound with ability and lei<g ref="char:EOLhyphen"/>ſure, to furniſh themſelues with the labours of ſuch worthy Diuines, as haue written of any of theſe ſub<g ref="char:EOLhyphen"/>iects:
+<pb n="12" facs="tcp:150818:18"/> ſo vnto ſuch Chri<g ref="char:EOLhyphen"/>ſtians as haue not that abi<g ref="char:EOLhyphen"/>lity or leyſure, I commend theſe Treatiſes, both for their breuity, &amp; the diſtinct digeſting of the things hee would ſeeke after; there beeing nothing of mine in theſe, but the labour of diſ<g ref="char:EOLhyphen"/>poſing them, the maine ſubſtance of them beeing Gods owne Word, and things deuiſed and inuen<g ref="char:EOLhyphen"/>ted by God himſelfe. I may lawfully commend the care and ſtudy of theſe things vnto thee, and that with ſo much authority from the Lord, as to tell thee, that thou maiſt not
+<pb n="13" facs="tcp:150818:18"/> ſafely bee negligent in any of theſe, if thou conſider the worth of them, or thy owne need.</p>
+            <p>If thou ſay, that heere is<note place="margin">In courage<g ref="char:EOLunhyphen"/>ments to the ſtudy of theſe things.</note> preſcribed a hard task, and ſo many things are to bee done, as may make any man afraid to meddle with directions of ſuch variety, and number:</p>
+            <p>I anſwer; that in any of theſe Treatiſes the way is not made harder then is required, or in the doc<g ref="char:EOLhyphen"/>trine of the Church mani<g ref="char:EOLhyphen"/>feſted, but rather things are made more plaine, and ſo more eaſie. Beſides, thou knoweſt already, that the
+<pb n="14" facs="tcp:150818:19"/> 
+               <hi>way</hi> to heauen <hi>is a narrow, and ſtraight way, and few finde it.</hi> But eſpecially thou ſhouldſt wey with thy ſelfe the great encouragements and motiues to abide the hardſhip &amp; difficulties of any godly and neceſſary courſe. Though the way to <hi>Canaan</hi> (with the <hi>Iſrae<g ref="char:EOLhyphen"/>lites</hi>) were through a ſoli<g ref="char:EOLhyphen"/>tary wilderneſſe, yet it ſhould comfort thee, that it is but <hi>a way of three daies,</hi> as they ſaid, beeing about to get out of Egypt. God will keep thee at worke but a little time, and therefore thou ſhouldeſt not thinke much of thy paines. And
+<pb n="15" facs="tcp:150818:19"/> further think of it, that this is a courſe of wonderfull comfort and ſafety: when a Chriſtian followes the eui<g ref="char:EOLhyphen"/>dent directions of Gods word in theſe moſt weigh<g ref="char:EOLhyphen"/>ty things, he walkes ſafely: Hee is in the <hi>good way, the way of life,</hi> the <hi>way of peace;</hi> he is ſure to <hi>ſee the ſaluation of God:</hi> to follow theſe di<g ref="char:EOLhyphen"/>rections ſoundly, is to keep our ſoules: all <hi>Gods waies</hi> will bee <hi>mercy and truth</hi> to vs: God will cauſe vs <hi>to heare his louing kindneſse in the morning;</hi> our way will be full of refreſhing: Gods waies are <hi>waies of pleaſure,</hi> and if any man ſet himſelfe
+<pb n="16" facs="tcp:150818:20"/> exactly to take notice of Gods will in theſe things, and will bee at the paines to ſtore his heart diſtinct<g ref="char:EOLhyphen"/>ly in ſuch ſolid Trueths: It is certaine, the Lord will recompence his way vpon him, <hi>God will not caſt away the exact man, till hee fill his mouth with laùghter,</hi> as it is ſaid, <hi>Iob.</hi> 8. 19. 20. Sure it is, that in the ſtudy of theſe things lyeth the way of eternity, and though thou thinke the way to bee hard and narrow, yet this may ſome<g ref="char:EOLhyphen"/>what eaſe thee; it is <hi>a plain way.</hi> For the <hi>ſimple</hi> may profit by it, as is auouched
+<pb n="17" facs="tcp:150818:20"/> to be true of al the courſes, which God by his Word ſo expreſly required, <hi>Pſalm 119. Iſaiah</hi> 35. 8. &amp; 42. 16. <hi>Pro.</hi> 8. and beſides thou haſt many helps; the Word of God will not onely ſhew thee what to do, but it will beget in thee a ſecret pow<g ref="char:EOLhyphen"/>er to doe it, God will <hi>teach thee to profit,</hi> and the <hi>Spirit of God will helpe thy infirmi<g ref="char:EOLhyphen"/>ties;</hi> and God will <hi>ſend his Angels to guide thee</hi> in thy way: <hi>Chriſt will be the Way and the Life to thee,</hi> &amp; thou haſt good company: for this is the <hi>olde way,</hi> the way of all Gods ſeruants in the ſubſtance of the courſe.</p>
+            <pb n="18" facs="tcp:150818:21"/>
+            <p>Only before thou ſet vp<g ref="char:EOLhyphen"/>on<note place="margin">Generall directions by way of preparati<g ref="char:EOLhyphen"/>on.</note> any of theſe directions, let me giue this general ad<g ref="char:EOLhyphen"/>uice to looke to theſe few things.</p>
+            <p n="1">1. Firſt, thou muſt giue ouer, and forſake vngodly company; for elſe it is in vaine to meddle with any religious courſe, as theſe places will ſhew thee, <hi>Pſal. 1. 1. 2. Prou.</hi> 4. 14. 15. and 9. 6. and 23. 19. 20. and 29. 27 <hi>Pſal. 26. 2. Cor.</hi> 6.</p>
+            <p n="2">2. Thou muſt <hi>get thee into the way of good men,</hi> prouide for thy ſelfe, if it be poſſible, the fellowſhip and ſociety of godly per<g ref="char:EOLhyphen"/>ſons, <hi>Prou. 2. 20. Iſaiah.</hi> 19.
+<pb n="19" facs="tcp:150818:21"/> 23. 24. 25. For their fellow<g ref="char:EOLhyphen"/>ſhip will take away the te<g ref="char:EOLhyphen"/>diouſneſſe of the way, and much preſerue thee againſt giuing ouer, and their ex<g ref="char:EOLhyphen"/>amples will be as patternes for thee, and by acquain<g ref="char:EOLhyphen"/>tance with them, thou wilt bee brought into acquain<g ref="char:EOLhyphen"/>tance with God himſelfe, <hi>Iſaiah 19. 23. 24. 2. Cor. 6. 16. 17. 18. Prou.</hi> 20. 20.</p>
+            <p n="3">3. Thou muſt remem<g ref="char:EOLhyphen"/>ber <hi>to pray vnto God</hi> by all meanes <hi>to direct thee, and ſhew thee thy way</hi> in all theſe things, thou muſt <hi>beg a way of God,</hi> and beſeech him to <hi>remooue from thee all lying and deceitfull waies, Ezech.</hi>
+               <pb n="20" facs="tcp:150818:22"/> 8. 21. <hi>Pſ. 119. 29. Ier.</hi> 10. 23.</p>
+            <p n="4">4. Thou muſt, when thou commeſt to Gods directi<g ref="char:EOLhyphen"/>ons, <hi>lift vp thy ſoule,</hi> and not giue way to thy owne <hi>car<g ref="char:EOLhyphen"/>nal reaſon,</hi> and the ſluggiſh<g ref="char:EOLhyphen"/>nes of thy owne nature, or the deceitfulnes of thy own heart: but let the Lord ſee thou art willing to doe any thing thou canſt, <hi>Pſ.</hi> 143. 8. Bring a mind deſirous to <hi>o<g ref="char:EOLhyphen"/>bey in all things.</hi> By any<note place="margin">Note.</note> meanes take heed, thou be not like thoſe complained of, <hi>Iſa.</hi> 58. 2. that haue a great mind to know Gods waies, and to read all ſorts of directions, as if they ſought righteouſneſſe in a
+<pb n="21" facs="tcp:150818:22"/> ſpeciall manner of care, and yet doe not follow a<g ref="char:EOLhyphen"/>ny of the courſes they ſo much deſire to know, and ſeem to commend &amp; like. If euer thou wouldeſt haue thy ſoule to dwell at eaſe, chooſe out for thy ſelfe thoſe waies which GOD doth teach thee, <hi>Pſalm.</hi> 25. 12. 13. Let the Lord know, that if he will be pleaſed to teach thee a ſure way, thou wilt walke in his paths; &amp; to that end, beforehand beſeech him <hi>to vnite thy heart to his feare, Pſal.</hi> 86. 11. Thou ſhouldſt bee of <hi>Da<g ref="char:EOLhyphen"/>uids</hi> mind to ſay, <hi>O that my wayes were directed to keepe
+<pb n="22" facs="tcp:150818:23"/> Gods ſtatutes,</hi> and then thou wo<g ref="char:cmbAbbrStroke">̄</g>uldeſt reſolue to keepe them, <hi>Pſalm.</hi> 119. 58.</p>
+            <div n="2" type="chapter">
+               <head>CHAP. II.</head>
+               <argument>
+                  <p>Shewing what rules hee muſt obſerue, that would be de<g ref="char:EOLhyphen"/>liuered from his ſinne.</p>
+               </argument>
+               <p>HItherto in Generall. The firſt thing then to be done by that Chriſtian that would ſettle himſelfe in a ſound courſe, to lay as it were, the foundation of his ſaluation, is to prac<g ref="char:EOLhyphen"/>tiſe thoſe rules that may deliuer him from the hor<g ref="char:EOLhyphen"/>rible
+<pb n="23" facs="tcp:150818:23"/> danger and diſtreſſe he is in, in reſpect of all the power of al the ſins he hath hitherto committed.</p>
+               <p>If hee conſider of the<note place="margin">Motiues.</note> dreadfull curſes which he is liable vnto in reſpect of all his ſinnes, hee ought not to think it much to vn<g ref="char:EOLhyphen"/>dergoe the hardeſt taske can be inioyned, to make himſelfe capable of the grace of God, and pardon for ſo many offences. And therefore with ſo much the more willingneſſe, and vn<g ref="char:EOLhyphen"/>changeablenes of religion ſhuld he with much deſire ſet vpon theſe rules now to bee giuen, ſeeing they are
+<pb n="24" facs="tcp:150818:24"/> but few in number, and ſuch as hee may performe by the grace of God, with much eaſe and comfort, and the more may hee en<g ref="char:EOLhyphen"/>courage his own heart, be<g ref="char:EOLhyphen"/>cauſe when he hath done, he may cleerly ſee he hath done diſtinctly that which God required of him, and that, with which he is ſatiſ<g ref="char:EOLhyphen"/>fied through Chriſt. But before he ſet vpon the pra<g ref="char:EOLhyphen"/>ctice of theſe rules, he muſt in iudgement be through<g ref="char:EOLhyphen"/>ly reſolued of three things.<note place="margin">3. Things he muſt be reſolued of in his iudgment.</note>
+               </p>
+               <p n="1">1. That <hi>Ieſus Chriſt</hi> hath made a ful &amp; ſuffi<g ref="char:EOLhyphen"/>cient <hi>ſatisfaction</hi> for the ſins of all men: As hee
+<pb n="25" facs="tcp:150818:24"/> became <hi>a ſacrifice for him,</hi> he payed <hi>a price</hi> in his bloud, ſufficient to <hi>redeeme vs, Epheſ. 1. 6. Hee is the Lambe of God, that taketh away the ſins of the world, Ioh. 1. 1. Pet. 18. 19. Epheſ.</hi> 1. 10.</p>
+               <p n="2">2. That <hi>God is well pleaſed</hi> with this ſatisfa<g ref="char:EOLhyphen"/>ctio<g ref="char:cmbAbbrStroke">̄</g> made by Chriſt for our ſinnes, which he de<g ref="char:EOLhyphen"/>clared by that voyce from heauen, <hi>Mat.</hi> 3. &amp; 17, &amp;c. Yea, hee hath ſet Chriſt foorth in the view of all men, as the <hi>propitiation for their ſins, Rom.</hi> 3. 25. and hath ſent vs <hi>the Word of reconcilia<g ref="char:EOLhyphen"/>tion,</hi>
+                  <pb n="26" facs="tcp:150818:25"/> and <hi>beſeecheth vs by</hi> the Word <hi>to be reconci<g ref="char:EOLhyphen"/>led, 2. Cor.</hi> 5. 19.</p>
+               <p n="3">3. That <hi>thou</hi> maiſt at<g ref="char:EOLhyphen"/>taine vnto this redemp<g ref="char:EOLhyphen"/>tion by Chriſt, if thou wilt practiſe thoſe things which are requi<g ref="char:EOLhyphen"/>red of thee: and this thou maiſt bee aſſured of, both becauſe Chriſt is ſaid to take away the ſinnes of <hi>the world,</hi> and becauſe God offers this reconciliation in the Goſpel, <hi>to euery creature,</hi> and exempts none; and becauſe the Apoſtle ſaith, <q>
+                     <hi>If any man ſinne,</hi> he may haue <hi>an Aduocate
+<pb n="27" facs="tcp:150818:25"/> with the Father, euen Ie<g ref="char:EOLhyphen"/>ſus Chriſt the rightèous;</hi> and beſides, thou feeleſt the <hi>Spirit of God knock<g ref="char:EOLhyphen"/>ing</hi> at the doore of thy heart, and would come in, <hi>Iohn 1. Marke 16. 1. Iohn</hi> 2.</q>
+               </p>
+               <p>When thou haſt thus prepared thy ſelfe by theſe<note place="margin">If we do 4. things, we are rid of the da<g ref="char:cmbAbbrStroke">̄</g>ger of all ſins paſt.</note> three reſolutions, then if thou do theſe 4. things fol<g ref="char:EOLhyphen"/>lowing, thou maiſt be ſure to be cleerly rid of al da<g ref="char:cmbAbbrStroke">̄</g>ger that can any way befall thee for thy ſinnes paſt, though they were neuer ſo many, or great.</p>
+               <p n="1">1. The firſt rule con<g ref="char:EOLhyphen"/>cernes<note place="margin">1 Make a Catalogue of thy ſins</note> the examination of
+<pb n="28" facs="tcp:150818:26"/> thy ſelfe, &amp; it is this: Thou<g ref="char:punc">▪</g> muſt make thee a Cata<g ref="char:EOLhyphen"/>logue of all the ſinnes thou canſt diſcerne by thy ſelfe, and bee ſure thou doe this ſeriouſly, and effectually; and for this purpoſe retire thy ſelfe into ſome ſecret place, and ſet thy ſelfe in Gods preſence; and then call to minde all the ſinnes thou canſt remember by thy ſelfe particularly, write them downe as they come to thy mind; aske thy ſelfe this queſtion: <hi>What haue I done all the dayes of my life, which if I were now to dye, would fear mee, if they were not forgiuen?</hi> Take the an<g ref="char:EOLhyphen"/>ſwer
+<pb n="29" facs="tcp:150818:26"/> to this queſtion, as thy ſinnes come to thy minde, till thou canſt remember no more, ſo as thou couldſt in the ſincerity of thy hart ſay, that thou dealeſt plain<g ref="char:EOLhyphen"/>ly before the Lord, &amp; doeſt not hide any fault, and out of the liking thou haſt to a<g ref="char:EOLhyphen"/>ny ſinne, doſt not forbeare to ſet it downe.</p>
+               <p>Trouble not thy head with the thought of any o<g ref="char:EOLhyphen"/>ther thing, till this bee done: and thou needeſt not care for <hi>order</hi> or <hi>phraſe</hi> in ſetting it downe, but doe it in ſuch words as thou haſt to vtter it in, and be ſure to ſpare none of thy
+<pb n="30" facs="tcp:150818:27"/> 
+                  <hi>ſpeciall knowne ſinnes,</hi> but let the Lord ſee, <hi>that thou art as willing to indite thy ſelfe for them in his preſence, as thou art willing hee ſhould forgiue them.</hi> When thou haſt in this manner taken a particular notice of thy ſinnes, then look vpon the Catalogue following, and examine thy ſelfe diſtinctly by it. For this Catalogue will bee like a Looking<g ref="char:EOLhyphen"/>glaſſe from all parts of Gods Law, to ſhew thee thy offences, and ſo thou maiſt obſerue, what faults thou couldſt not finde, or remember by thy priuate examination, and withall
+<pb n="31" facs="tcp:150818:27"/> ſee in what phraſe or order to digeſt thy ſins. Let not thy thoughts trouble thee, but cheerefully endure this triall of thy ſelfe, and take heed thou do it not curſo<g ref="char:EOLhyphen"/>rily, but take time enough, and ſo thou maiſt, if thou wilt onely take one of the Chapters, or two of them, as they lye in the <hi>Catalogue,</hi> and no more in a day, till thou come to the ende of the <hi>Catalogue,</hi> neyther nee<g ref="char:EOLhyphen"/>deſt thou to trouble thy ſelfe about ſuch ſinnes, as thou doeſt not cleerely ſee that thou art guilty of, but take only ſuch, as thou art moſt ſure thou haſt offen<g ref="char:EOLhyphen"/>ded
+<pb n="32" facs="tcp:150818:28"/> in: It is enough in the practice of Repentance, to take particular notice of known and apparant euils. A generall acknowledge<g ref="char:EOLhyphen"/>ment will ſerue for the reſt: If thou thinke thy ſins bee<note place="margin">How our ſinnes are innume<g ref="char:EOLhyphen"/>rable.</note> innumerable, and ſo can<g ref="char:EOLhyphen"/>not be gathered into a Ca<g ref="char:EOLhyphen"/>talogue, vnderſtand, that the <hi>acts of ſinne</hi> are innume<g ref="char:EOLhyphen"/>rable, but <hi>not the kindes of ſinne.</hi> There is no ſinne, but it is condemned in the Scripture: and if there were as many ſinnes, as there be lines in the Scripture, yet they might bee numbred; and therefore that ſpeech of <hi>Dauid,</hi> that his ſins were
+<pb n="33" facs="tcp:150818:28"/> innumerable, muſt bee vn<g ref="char:EOLhyphen"/>derſtood of the acts of ſin; for he might in one ſin be guilty of innumerable acts: as if it were a ſinne in thought, it might be com<g ref="char:EOLhyphen"/>mitted oftner, then can be by vs numbred; But in re<g ref="char:EOLhyphen"/>pentance, it is enough to humble our ſelues for the ſeuerall kindes of ſins wee haue been guilty of, which will not be ſo manie, but they may eaſily bee num<g ref="char:EOLhyphen"/>bred. The ſeuerall acts of the ſame ſinne ſerue but as a generall aggrauation of the offence: Onely in this<note place="margin">Looke to 2. things.</note> examination looke to two things. The one, that thou
+<pb n="34" facs="tcp:150818:29"/> beſeech God by praier, to ſhew thee the ſins are moſt diſpleaſing vnto him. The other is, that thou take heed thou leaue not out a<g ref="char:EOLhyphen"/>nie ſpeciall knowne ſinnes, becauſe elſe, thoſe ſinnes ſo ſpared, may buffet thee a long time after thou haſt finiſhed this courſe; and beſides, they may get head and preuaile againſt thee in practice, if by this courſe they be not brought vnder.</p>
+               <p>Now that thou oughteſt<note place="margin">The proof</note> thus ſeriouſly to examine and call to minde thy ſins, and that this is one of the things God requireth of thee to be diſtinctly done,
+<pb n="35" facs="tcp:150818:29"/> theſe places of Scripture doe euidently proue, and withall ſhew, that GOD doth take euen this begin<g ref="char:EOLhyphen"/>ning of thy Repentance well, <hi>Lamen. 3. 40. Pſal. 4. 4. Ezech.</hi> 16. 43. 61. &amp; 20. 43. &amp; 36. 31. <hi>Ierem. 8. 6. 1. Cor. 11. Galat. 6. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Iob</hi> 11. 13. While thou art doing this thou ſhalt doe well to doe no other exerciſe of Reli<g ref="char:EOLhyphen"/>gion at that time, but only attend to this.</p>
+               <p>The ſecond thing that<note place="margin">2 Secondly, thou muſt confeſſe thy ſinnes particu<g ref="char:EOLhyphen"/>larly in the beſt words thou canſt</note> God requireth of thee di<g ref="char:EOLhyphen"/>ſtinctly to bee done, is <hi>the expreſsion</hi> of thoſe ſins thus gathered into the Cata<g ref="char:EOLhyphen"/>logue, and for the perfor<g ref="char:EOLhyphen"/>mance
+<pb n="36" facs="tcp:150818:30"/> of this duety, ſet ſome time apart, and pre<g ref="char:EOLhyphen"/>ſent thy ſelfe before the <hi>Lord:</hi> and if thy memory will not carry all the parti<g ref="char:EOLhyphen"/>culars<note place="margin">Note.</note> of thy offences, take with thee the written en<g ref="char:EOLhyphen"/>ditement, and as <hi>Hezekiah</hi> did with his letter, ſpread thy Catalogue before the <hi>Lord,</hi> and then <hi>take vnto thee words</hi> in the beſt man<g ref="char:EOLhyphen"/>ner thou canſt, to <hi>iudge thy ſelfe</hi> for thoſe offences. Let the Lord know, that it is thy hearts deſire to <hi>pleade guilty</hi> to each of thoſe ſins, and in ſpeciall, vrge againſt thy ſelfe thoſe ſins, wherein thou haſt more eſpecially
+<pb n="37" facs="tcp:150818:30"/> offended. Bee not ouer carefull for words; the Lord requireth thee but to doe it in the beſt wordes thou canſt; onely let thy words be the true voyce of thy heart, and thou mayſt bee ſure the Lord vnder<g ref="char:EOLhyphen"/>ſtandeth the meaning of thy heart. Let no obiection driue thee off from the practice heereof, but doe it ſo, as thy owne Conſci<g ref="char:EOLhyphen"/>ence may witneſſe with thee, that thou haſt done it in the beſt manner thou canſt. Now that this is a duety neceſſarily required, theſe Scriptures plainely<note place="margin">The proofes.</note> ſhew, <hi>Hoſh. 14. 3. 4. Prou.</hi>
+                  <pb n="38" facs="tcp:150818:31"/> 28. 13. <hi>Leuit.</hi> 16. 21. &amp; 26. 40. 41. <hi>Iob 33. 27. 28. Pſalm. 32. 5. Ier. 3. 12. 13. Math. 3. 6. Acts 19. 18. Dan. 9. Ne<g ref="char:EOLhyphen"/>hem. 9. 2. Rom. 10. 10. 1. Cor. 11. 1. Ioh.</hi> 1. 7. 9. This is the ſecond duty.</p>
+               <p>The third thing thou<note place="margin">3 Thirdly, thou muſt ſeek godly ſorrow, &amp; not giue ouer, till thou feele thy heart melt with<g ref="char:EOLhyphen"/>in thee.</note> muſt labour for diſtinctly, is, to conceiue true <hi>mour<g ref="char:EOLhyphen"/>ning</hi> and <hi>ſorrow</hi> for theſe ſinnes thus confeſſed. This is that <hi>ſacrifice</hi> is ſo well<g ref="char:EOLhyphen"/>pleaſing to God, and this is euery where in Scripture expreſſely required, &amp; the promiſes faſtned (diuers of them) vpon this condition, as theſe places manifeſtly ſhew, <hi>Math. 5. 5. Iam.</hi> 4. 9.
+<pb n="39" facs="tcp:150818:31"/> 
+                  <hi>Ioel 2. 12. 13. Zach. 12. 12. Iſaiah 1. 16. Pſalme. 31. 17. Iſaiah 61. 1. 2. 3. Ierem. 50. 4. Ierem.</hi> 31. 18, 19. Now that thou mayſt attain vn<g ref="char:EOLhyphen"/>to<note place="margin">How it may be at<g ref="char:EOLhyphen"/>tained.</note> ſoftneſſe of heart, I ad<g ref="char:EOLhyphen"/>uiſe thee to take this courſe: Reſolue with thy ſelfe to ſet ſome time apart, at leaſt once euery day for this bu<g ref="char:EOLhyphen"/>ſineſſe; and when thou doſt ſtand before the Lord with thy former mournefull in<g ref="char:EOLhyphen"/>ditement, and while thou ſtriueſt to iudge thy ſelfe, and to keepe an aſſiſe vp<g ref="char:EOLhyphen"/>on thy owne ſoule, beg of God to giue thee that <hi>ſoft heart he promiſed, Ezech.</hi> 36. 26. beg it (I ſay) of God,
+<pb n="40" facs="tcp:150818:32"/> but let thy praiers be with<g ref="char:EOLhyphen"/>out limitation for the time. If the Lord heare thee not the firſt time, yet pray for it the next time againe, and ſo the third day, and ſo ſtill, till the Lord do hear thee, and make thee feele thy hart to melt, and (if it may be) teares to trickle down thy cheekes before the Lord; yea, put on this re<g ref="char:EOLhyphen"/>ſolution, that thou wilt ne<g ref="char:EOLhyphen"/>uer ſtand before the Lord for any requeſt while this courſe laſts, but thou wilt remember this petition, to beſeech him to giue thee ſecret ſorrow and ſenſible for thy ſins. It may be, the
+<pb n="41" facs="tcp:150818:32"/> Lord will heare thee <hi>at the firſt,</hi> or in the beginning, while thou art <hi>preparing thy ſelfe to ſpeake vnto him,</hi> or while thou calleſt vpon him at the firſt or ſecond time, but yet if he doe not, perſiſt thou: thy ſute is iuſt; &amp; <hi>importunity</hi> wil ouercom the <hi>Lord:</hi> and <hi>this very de<g ref="char:EOLhyphen"/>ſire to ſorrow being reſolute, is a degree of true godly ſorrow.</hi> But yet, that thou maiſt be ſure of it, giue not ouer, till the <hi>Lord</hi> heare the letter of thy deſire, if it may be, and withal ſtriue againſt the per<g ref="char:EOLunhyphen"/>plexities of <hi>an vnquiet hart;</hi> fear not, but at time of the day which thou ſetſt apart
+<pb n="42" facs="tcp:150818:33"/> for religious duties, bee as earneſt as thou canſt, and when that is done, goe cheerfully about the works of thy calling. Hang not downe thy head like a bul<g ref="char:EOLhyphen"/>ruſh, as if thou muſt doe nothing elſe but ſigh and bemoane thy ſelfe, &amp; ſhew a troubled minde in all things: Euen the freer and readier thy minde is, the more fit thy heart will bee for this or other holy im<g ref="char:EOLhyphen"/>ployments.</p>
+               <p>And further know, that the vſe of this Catalogue is not for euer, nor doe I require this ſpeciall mour<g ref="char:EOLhyphen"/>ning all the daies of thy
+<pb n="43" facs="tcp:150818:33"/> life, but in this caſe of firſt repentance, by which the body of ſinne may bee re<g ref="char:EOLhyphen"/>moued. Therefore thou oughteſt ſo long to vſe the Catalogue of thy confeſſi<g ref="char:EOLhyphen"/>ons of ſinnes, till thou feele in ſome meaſure this ſor<g ref="char:EOLhyphen"/>row and melting of heart, which when thou haſt at<g ref="char:EOLhyphen"/>tained, either ſooner or la<g ref="char:EOLhyphen"/>ter, then addreſſe thy ſelfe to the fourth rule.</p>
+               <p>The fourth rule concerns<note place="margin">4. Fourthly, thou muſt then lay hold vpon the Pro<g ref="char:EOLhyphen"/>miſes di<g ref="char:EOLhyphen"/>ſtinctly.</note> 
+                  <hi>the application of the Promi<g ref="char:EOLhyphen"/>ſes,</hi> eſpecially the promiſes of two ſorts. Firſt, ſuch as ſhew that God hath giuen <hi>Ieſus Chriſt to make ſatisfa<g ref="char:EOLhyphen"/>ction</hi> for the ſinnes of men:
+<pb n="44" facs="tcp:150818:34"/> and then in ſpeciall, ſuch<note place="margin">2. Sorts of promiſes.</note> promiſes as ſhew, that through the merits of Chriſt, hee that hath thus confeſſed and felt ſorrow for his ſinne, ſhall be recei<g ref="char:EOLhyphen"/>ued to fauour. Now for<note place="margin">How this may be done.</note> this purpoſe, thou muſt get thee a diſtinct Catalogue of promiſes made to ſuch as confeſſe their ſins with ſorrow and mourning, and in them thou ſhalt ſee moſt plainely vnto how much riches and treaſure this en<g ref="char:EOLhyphen"/>trance vnto godlines hath brought thee. For the con<g ref="char:EOLhyphen"/>dition of the Promiſes be<g ref="char:EOLhyphen"/>ing already formed in thee by this grace of God, thou
+<pb n="45" facs="tcp:150818:34"/> maiſt ſafely aſſure thy ſoule of ſo much fauour from God <hi>in particular,</hi> as is <hi>ex<g ref="char:EOLhyphen"/>preſſely contained in thoſe Promiſes.</hi> Marke it thou; as yet dar'ſt not claime all the prerogatiues or good things contained in any Promiſes in Scripture, yet<note place="margin">Note.</note> thou maiſt ſafely lay vp as treaſure, ſo much as the Promiſes that concerne confeſſion and godly ſor<g ref="char:EOLhyphen"/>row doe aſſure and eſtate vpon thee; and ſo thou ſhalt finde that thou haſt right in Chriſt already for great and rich fauours, and maiſt ſhew Gods expreſſe Word to warrant thy
+<pb n="46" facs="tcp:150818:35"/> claime, as for example,<note place="margin">A taſte of the parti<g ref="char:EOLhyphen"/>cular hap<g ref="char:EOLhyphen"/>pineſſe of ſuch as haue gone thus farre.</note> God hath aſſured thee;</p>
+               <p n="1">1. That thou ſhalt not be damned, thou maiſt reſt vpon it, theſe bee plaine Scriptures, 1. <hi>Cor. 11. 31. 32. Iob</hi> 33. 27. 28.</p>
+               <p n="2">2. That GOD vvill haue mercy vpon thee, and loue thee freely, and take away his anger from thee, <hi>Prou. 28. 13. Ioel 2. 12. 13. Hoſ. 14. 3. 4. Ierem.</hi> 31. 18. 19. 20.</p>
+               <p n="3">3. That all thy ſinnes are forgiuen thee, 1. <hi>Iohn 1. 7. 9. Zach.</hi> 12. 10. and ſo forward to the 2. verſe of the 13. chapter.</p>
+               <p n="4">
+                  <pb n="47" facs="tcp:150818:35"/>4. That GOD is at peace, and reconciled, and that thou haſt a free right vnto his Word, &amp; ſhalt find his preſence in his Word, <hi>Iſaiah</hi> 57. 15 16. 17. 18.</p>
+               <p n="5">5. That GOD will now henceforth heale thy nature of thy ſinful<g ref="char:EOLhyphen"/>nes, <hi>Hoſh.</hi> 14. 3. 4.</p>
+               <p>I do but inſtance in theſe few particulars; but I could wiſh thee to make thee a full Catalogue, and write out the words <hi>verbatim,</hi> &amp; learne them without book, or at leaſt ſtudy the<g ref="char:cmbAbbrStroke">̄</g> ſound<g ref="char:EOLhyphen"/>ly to vnderſtand them, and for thy caſe I haue ſet
+<pb n="48" facs="tcp:150818:36"/> downe the chiefe places of Scripture as they lye in or<g ref="char:EOLhyphen"/>der.</p>
+               <list>
+                  <item>
+                     <hi>Leuit.</hi> 26. 41. 42. 44.</item>
+                  <item>2. <hi>Kings</hi> 22. 19. 20.</item>
+                  <item>
+                     <hi>Iob</hi> 33. 27. 28.</item>
+                  <item>
+                     <hi>Pſal.</hi> 32. 5. &amp; 51. 17.</item>
+                  <item>
+                     <hi>Prou.</hi> 28. 13.</item>
+                  <item>
+                     <hi>Iſaiah.</hi> 57. 15. 16. 17. 18. &amp; 61. 1. 2. 3.</item>
+                  <item>
+                     <hi>Ierem.</hi> 31. 18. 19. 20.</item>
+                  <item>
+                     <hi>Zach.</hi> 12. 10. and ſo for<g ref="char:EOLhyphen"/>ward to the ſecond verſe of Chap. 13.</item>
+                  <item>
+                     <hi>Hoſh.</hi> 14. 3. 4. 5. 6.</item>
+                  <item>
+                     <hi>Math.</hi> 5. 6.</item>
+                  <item>1. <hi>Cor.</hi> 11. 31. 32.</item>
+                  <item>
+                     <hi>Iam.</hi> 4. 9.</item>
+               </list>
+               <p>Now when thou haſt
+<pb n="49" facs="tcp:150818:36"/> written out theſe Promiſes and doſt vnderſtand the<note place="margin">How theſe pro<g ref="char:EOLhyphen"/>miſes are to be vſed.</note> meaning of them, then car<g ref="char:EOLhyphen"/>rie them into Gods pre<g ref="char:EOLhyphen"/>ſence, as thou diddeſt the Catalogue of ſinnes, and now beſeech God for Ieſus Chriſts ſake, to incline thy heart to beleeue theſe pro<g ref="char:EOLhyphen"/>miſes of Grace; and to this end pray vnto God from time to time, till the Lord be pleaſed to let thee feele life in the Promiſes, or a cleere perſwaſion; &amp; withal beſeech God by the Spirit of Promiſe from Heauen, to ſeale vp thy intereſt heerein; and if thou feele the ioyes of the holy Ghoſt
+<pb n="50" facs="tcp:150818:37"/> fall vpon thee in any of theſe Promiſes, O happy man that euer thou waſt born to ſuch a rich eſtate; I ſay the ſame of this ſenſible life in the promiſes, that I did before of godly ſor<g ref="char:EOLhyphen"/>row. It may be, the Lord will heare thee at the firſt; if not, perſiſt thou to beg this grace till thou obtai<g ref="char:EOLhyphen"/>neſt it. Thou ſeeſt, forgiue<g ref="char:EOLhyphen"/>neſſe of all thy ſins which thou haſt confeſſed, is pro<g ref="char:EOLhyphen"/>miſed thee, vrge the Lord with moſt humble depre<g ref="char:EOLhyphen"/>cation to heare thee for the pardon and forgiueneſſe of them, for the mediation ſake of Ieſus Chriſt and his
+<pb n="51" facs="tcp:150818:37"/> merits, that ſits at his right hand, to make requeſt for poor ſinners that ſeek mer<g ref="char:EOLhyphen"/>cy. Now when thou haſt felt the Promiſes to be any of them <hi>ſpirit &amp; life to thee,</hi> then haſt thou done this moſt glorious exerciſe, and thou haſt cauſe to praiſe GOD all the daies of thy life, &amp; what thou ſhouldeſt afterward doe, the Treati<g ref="char:EOLhyphen"/>ſes following will ſhew thee; but for thy more cleare ſatisfaction, I will anſwer a queſtion.</p>
+               <p>
+                  <hi>Qu.</hi> Thou wilt ſay, I could take comfort in this courſe, hauing done theſe things, but that I doubt
+<pb n="52" facs="tcp:150818:38"/> whether my confeſſion or ſorrow be right, or no. For I finde, that wicked men in Scripture haue confeſſed their ſinnes, and mourned too.</p>
+               <p>
+                  <hi>An.</hi> Thou maiſt euident<g ref="char:EOLhyphen"/>ly try thy confeſſion and ſorrow, by theſe ſignes of difference.</p>
+               <p n="1">1. Wicked men haue confeſſed their ſins, and ſorrowed, but both were <hi>compelled,</hi> whereas thine is voluntarily, and ſo <hi>a free-will offering.</hi>
+               </p>
+               <p n="2">2. <hi>Caine</hi> and <hi>Iudas</hi> confeſſed ſinne, but it was <hi>not all ſorts of ſinnes,</hi> but onely the capitall
+<pb n="53" facs="tcp:150818:38"/> crimes known by them, by which they had ſha<g ref="char:EOLhyphen"/>med and vndone them<g ref="char:EOLhyphen"/>ſelues.</p>
+               <p n="3">3. The ſorrowes of wicked men were <hi>more for the puniſhment, then for the ſinne;</hi> No wicked man can bee ſorry for <hi>ſinne, as it is ſinne;</hi> nor did they ſorrow for <hi> all ſorts of ſinnes,</hi> but for the ſinnes before deſcribed.</p>
+               <p n="4">4. Their confeſſion and ſorrowes were <hi>not ioyned with an vnfeigned deſire to forſake ſin;</hi> wher<g ref="char:EOLhyphen"/>as this is an infallible ſigne of true repenta<g ref="char:cmbAbbrStroke">̄</g>ce, when a man can as har<g ref="char:EOLhyphen"/>tily
+<pb n="54" facs="tcp:150818:39"/> 
+                  <hi>deſire that hee might neuer commit ſinne, as heartily</hi> (I ſay) <hi>deſire it, as he would that God ſhuld neuer impute it.</hi> When a man can ſay before the Lord, that there is no ſinne, but he doth as vn<g ref="char:EOLhyphen"/>feignedly deſire God to giue him ſtrength to leaue it and forſake it, as he doth deſire that God ſhould forgiue him, and not plague him for it: I ſay this is ſuch a ſigne, as was neuer found in a wicked man in any age of the world.</p>
+               <p n="5">5. The confeſſion &amp; ſorrowes of the wicked
+<pb n="55" facs="tcp:150818:39"/> were not ioyned with a<g ref="char:EOLhyphen"/>ny perſwaſion of Gods goodneſſe, or any con<g ref="char:EOLhyphen"/>ſtant deſire to find mer<g ref="char:EOLhyphen"/>cy with GOD in <hi>Ieſus Chriſt.</hi>
+               </p>
+               <p>Thus haue I ſhewed thee the directions, which con<g ref="char:EOLhyphen"/>cerne this firſt and moſt weighty buſineſſe that can concerne thee.</p>
+               <p>There are three ſorts of<note place="margin">This dire<g ref="char:EOLhyphen"/>ction con<g ref="char:EOLhyphen"/>cernes 3. ſorts of men.</note> men whom this direction concernes. 1. Such as ne<g ref="char:EOLhyphen"/>uer repented. 2. Such as though they haue repen<g ref="char:EOLhyphen"/>ted, yet haue not the com<g ref="char:EOLhyphen"/>fort and aſſurance of their repentance, who by fol<g ref="char:EOLhyphen"/>lowing theſe directions,
+<pb n="56" facs="tcp:150818:40"/> may make all out of doubt. 3. Such as after calling fall into groſſe ſinnes: Theſe haue neede to recouer themſelues by the helpe of theſe directions. The Ca<g ref="char:EOLhyphen"/>talogue following may ſerue for other vſes, beſides<note place="margin">Other v<g ref="char:EOLhyphen"/>ſes of the Cata<g ref="char:EOLhyphen"/>logue.</note> this of a mans practiſe in his repentance at his firſt conuerſion, or after Apo<g ref="char:EOLhyphen"/>ſtacie: For</p>
+               <p n="1">1. As in a ſmall Map, a man may heere ſee the ſorts of ſin, and ſo may get knowledge quickly, what euils to auoide, which hitherto hee hath not taken notice of.</p>
+               <p n="2">2. It may ſerue before
+<pb n="57" facs="tcp:150818:40"/> the Communion, for ſuch as would make a generall ſuruey of their ſinnes, in diſcharge of that <hi>examination</hi> which the Apoſtle mentioneth 1. <hi>Cor.</hi> 11. For howſoe<g ref="char:EOLhyphen"/>uer this large Cata<g ref="char:EOLhyphen"/>logue be not of neceſſi<g ref="char:EOLhyphen"/>ty requiſite to that exa<g ref="char:EOLhyphen"/>mination, yet vnto ſuch as haue leiſure and fit<g ref="char:EOLhyphen"/>neſſe, it is profitable for their more aboundant ſatisfaction.<note place="margin">The miſe<g ref="char:EOLhyphen"/>ry of ſuch as will not be aduiſed to take a ſound courſe a<g ref="char:EOLhyphen"/>bout their ſinnes.</note>
+               </p>
+               <p>To conclude, if any man that reades theſe preſents, and is guilty to himſelfe, that hee hath hitherto ta<g ref="char:EOLhyphen"/>ken no ſound courſe about
+<pb n="58" facs="tcp:150818:41"/> his ſinnes, and yet will not bee perſwaded to practiſe theſe directions: Let him conſider, that ſo long as his ſinnes bee vnrepented on his part, and vnremitted on Gods part, the <hi>pollution</hi> of all the ſinnes hee euer committed, ſtill cleaues vnto him; ſo as he may iuſt<g ref="char:EOLhyphen"/>ly with the Leper cry, <hi>Vn<g ref="char:EOLhyphen"/>cleane, vncleane:</hi> yea all his ſinnes are <hi>written, as it were with a penne of iron</hi> in Gods Booke of remembrance, &amp; that hee is a meere <hi>ſtranger from all Gods promiſes;</hi> and liues <hi>without God,</hi> and <hi>with<g ref="char:EOLhyphen"/>out Chriſt in the world,</hi> and that all hee doth, euen his
+<pb n="59" facs="tcp:150818:41"/> 
+                  <hi>beſt workes are abhominable</hi> to God, and that <hi>ſeas of wrath</hi> hang ouer his head, and vnſpeakeable <hi>woe will be to him in the appearing of Ieſus Chriſt,</hi> if he preuent it not by ſound and ſpeedy repentance.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III.</head>
+               <argument>
+                  <p>The diuiſion of Sinnes, and the Catalogue of Sinne a<g ref="char:EOLhyphen"/>gainſt the whole Law.</p>
+               </argument>
+               <p>ALl the ſinnes mentio<g ref="char:EOLhyphen"/>ned and condemned in the Bible, may bee caſt into 4. rankes. For they are,</p>
+               <p n="1">
+                  <pb n="60" facs="tcp:150818:42"/>1. Eyther <hi>ſins againſt the whole Law,</hi> that is, ſuch, as may be commit<g ref="char:EOLhyphen"/>ted againſt any of the Commandements.</p>
+               <p n="2">2. Or <hi>ſinnes againſt the firſt table</hi> of the Law.</p>
+               <p n="3">3. Or <hi>ſinnes againſt the ſecond table</hi> of the Law.</p>
+               <p n="4">4. Or <hi>ſinnes againſt the Goſpell.</hi>
+               </p>
+               <p n="1">1. The firſt ſort of ſinnes are ſins againſt the whole Law, and thus he ſinneth, That is conceiued in ſin,<note place="margin">Originall ſinne.</note> 
+                  <hi>Pſal.</hi> 51. 5.</p>
+               <p>That allowes not the good he doth, <hi>Rom.</hi> 7. 15.</p>
+               <p>That doth the euill hee hates, <hi>verſ.</hi> 15.</p>
+               <pb n="61" facs="tcp:150818:42"/>
+               <p>That hath not goodneſſe dwelling in him, <hi>ver.</hi> 18.</p>
+               <p>That doth not the good he would, <hi>ver.</hi> 19.</p>
+               <p>That hath euill preſent, when he would do good<g ref="char:punc">▪</g> 
+                  <hi>verſ.</hi> 21.</p>
+               <p>That hath a Law in his members, rebelling a<g ref="char:EOLhyphen"/>gainſt the law of his minde, <hi>ver.</hi> 23.</p>
+               <p>That hath not knowledge<note place="margin">Ignora<g ref="char:cmbAbbrStroke">̄</g>ce.</note> to do good, <hi>Ier. 4. 22. Hoſ. 4<g ref="char:punc">▪</g> 6. Iſaiah</hi> 1. 3.</p>
+               <p>This is aggrauated.</p>
+               <p n="1">1. If thou refuſe know<g ref="char:EOLhyphen"/>ledge, and wilt not vnder<g ref="char:EOLhyphen"/>ſtand, <hi>Iob 21. 14. Pſ.</hi> 36. 4.</p>
+               <p n="2">2. If thou walke not in the light, whileſt thou haſt
+<pb n="62" facs="tcp:150818:43"/> the light, <hi>Iohn</hi> 12.</p>
+               <p n="3">3. If thou hate him that inſtructeth thee, <hi>Amos</hi> 3. 10.</p>
+               <p n="4">4. If thou detaine the truth for the loue thou bea<g ref="char:EOLhyphen"/>reſt to wickedneſſe, <hi>Rom.</hi> 1. 18.</p>
+               <p n="5">5. That will not vnder<g ref="char:EOLhyphen"/>ſtand,<note place="margin">Procraſti<g ref="char:EOLhyphen"/>nation.</note> though the founda<g ref="char:EOLhyphen"/>tions of the earth be moo<g ref="char:EOLhyphen"/>ued, <hi>Pſal.</hi> 82. 5.</p>
+               <p>That hath preſent occa<g ref="char:EOLhyphen"/>ſion to doe good, and yet puts it off, though but till the morrow, <hi>Prou.</hi> 3. 28.</p>
+               <p>That ſeeketh his owne<note place="margin">Vainglory</note> glory, <hi>Prou.</hi> 25. 27.</p>
+               <p>That boaſteth of a falſe gift, <hi>Prou.</hi> 25. 14.</p>
+               <p>That praiſeth himſelfe,
+<pb n="63" facs="tcp:150818:43"/> 
+                  <hi>Prouerbs.</hi> 27. 2.</p>
+               <p>That is pure in his owne eyes, beeing not waſhed from his filthineſſe, <hi>Prou.</hi> 30. 12.</p>
+               <p>That cauſeth others to goe aſtray, eſpecially the righteous, <hi>Prou.</hi> 28. 10.</p>
+               <p>That calls euill good, or good euill, or puts light for darkeneſſe, or darkneſſe for light, or that puts bitter for ſweet, or ſweet for bit<g ref="char:EOLhyphen"/>ter, <hi>Iſaiah</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 20.</p>
+               <p>That changeth the or<g ref="char:EOLhyphen"/>dinances, or addeth to Gods Word, or dimini<g ref="char:EOLhyphen"/>ſheth ought from it, <hi>Iſai. 24. 5. Deut. 4. 2. Prou.</hi> 30. 6.</p>
+               <p>That protects or defends
+<pb n="64" facs="tcp:150818:44"/> others in ſinne, <hi>Ier.</hi> 44. 15.</p>
+               <p>That ſits ſtill, and is at<note place="margin">Security.</note> reſt in ſinne, <hi>Zach.</hi> 1. 11. and conſiders not that God re<g ref="char:EOLhyphen"/>members his wickedneſſe, <hi>Hoſea.</hi> 7. 2. and is without fear of Gods iudgements, <hi>Prouerbs 28. 14. 1. Theſſal.</hi> 5. 6. 7.</p>
+               <p>That receiueth not cor<g ref="char:EOLhyphen"/>rection,<note place="margin">Incorrigi<g ref="char:EOLhyphen"/>bleneſſe.</note> but proudly hard<g ref="char:EOLhyphen"/>neth his heart, and is wilful in euill, <hi>Ierem. 5. 23. Ezech. 7. 10. Hebr.</hi> 3. 15. 16.</p>
+               <p>That feares reproach for<note place="margin">Carnall feares.</note> well-dooing, <hi>Iſaiah</hi> 51. 7. or feares the diſpleaſure of God, for breaking mans traditions, <hi>Matthew</hi> 15. 2. 9. or in things indiffe<g ref="char:EOLhyphen"/>rent,
+<pb n="65" facs="tcp:150818:44"/> makes conſcience of ſin, where there is no ſin, <hi>Rom.</hi> 14.</p>
+               <p>That doth his worke to<note place="margin">Hypo<g ref="char:EOLhyphen"/>criſie.</note> be ſeene of men: <hi>Math.</hi> 6. and 23.</p>
+               <p>That hath the forme of godlineſſe, but donyeth the power of it, 2. <hi>Timoth.</hi> 3. 5.</p>
+               <p>That is a louer of him<g ref="char:EOLhyphen"/>ſelfe,<note place="margin">Self-loue.</note> 2. <hi>Tim.</hi> 3. 3.</p>
+               <p>That is neyther hot nor<note place="margin">Luke<g ref="char:EOLhyphen"/>warme<g ref="char:EOLhyphen"/>neſſe. Vncheer<g ref="char:EOLhyphen"/>fulneſſe.</note> cold, <hi>Reu.</hi> 3. 15.</p>
+               <p>That doth not good with a ioyfull heart, <hi>Deut.</hi> 28. 47.</p>
+               <p>That eſteems the way of the multitude, <hi>Exod.</hi> 22. 2.</p>
+               <p>That is not circumſpect,<note place="margin">Inconſi<g ref="char:EOLhyphen"/>deration.</note>
+                  <pb n="66" facs="tcp:150818:45"/> but fooliſh and raſh, and ruſheth vpon things with<g ref="char:EOLhyphen"/>out knowledge or counſell, or conſideration of oppor<g ref="char:EOLhyphen"/>tunities, circumſtances, meanes, or end, <hi>Epheſ. 5. 15. Prou. 15. 22. Ierem.</hi> 8. 6.</p>
+               <p>That is childiſh or vn<g ref="char:EOLhyphen"/>conſtant,<note place="margin">Incon<g ref="char:EOLhyphen"/>ſtancy.</note> 
+                  <hi>Epheſ.</hi> 4. 14.</p>
+               <p>That is carried about with euery winde of do<g ref="char:EOLhyphen"/>ctrine.</p>
+               <p>That hath a diuided heart, <hi>Hoſ.</hi> 10. 2.</p>
+               <p>That is mutable in his affection to godlineſſe, <hi>Galat.</hi> 4.</p>
+               <p>That falleth away from the truth, or goeth backe, <hi>Ier. 15. 6. Hoſh. 6. 4. Iſa.</hi> 1. 4.</p>
+               <pb n="67" facs="tcp:150818:45"/>
+               <p>Hitherto of the ſinnes a<g ref="char:EOLhyphen"/>gainſt the whole Law.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IIII.</head>
+               <argument>
+                  <p>The diuiſion of the ſinnes a<g ref="char:EOLhyphen"/>gainſt the firſt table: and the ſorts of ſinnes againſt Gods nature.</p>
+               </argument>
+               <p>THe ſinnes againſt God forbidden in the firſt table of the Law, are of 4. ſorts.</p>
+               <p n="1">1. Some againſt his na<g ref="char:EOLhyphen"/>ture.</p>
+               <p n="2">2. Some againſt the meanes of his worſhip.</p>
+               <p n="3">3. Some againſt the
+<pb n="68" facs="tcp:150818:46"/> manner of his worſhip.</p>
+               <p n="4">4. Some againſt the time of his worſhip.</p>
+               <p>For the firſt, the ſinnes a<g ref="char:EOLhyphen"/>gainſt the nature of God, are of two ſorts.</p>
+               <p n="1">1. Some more vnuſuall and perſonall.</p>
+               <p n="2">2. Some more vſual and naturall.</p>
+               <p>The more vnuſuall ſins are ſuch, as are not found amongſt Chriſtians, ex<g ref="char:EOLhyphen"/>cept it bee in ſuch perſons onely, as are moſt mon<g ref="char:EOLhyphen"/>ſtrouſly viſible, ſuch as are,</p>
+               <p n="1">1. <hi>Blaſphemy;</hi> to reproch God.</p>
+               <p n="2">2. <hi>Idolatry;</hi> to worſhip the creature.</p>
+               <p n="3">
+                  <pb n="69" facs="tcp:150818:46"/>3. <hi>Witchcraft,</hi> or the ſer<g ref="char:EOLhyphen"/>uice of the Diuell.</p>
+               <p n="4">4. <hi>Atheiſme,</hi> to defend there is no God, or to de<g ref="char:EOLhyphen"/>ſire conſtantly there were no God.</p>
+               <p n="5">5. That matchleſſe <hi>Pride,</hi> for a man to ſay, hee is God, or to exalt himſelf aboue all, that is called God.</p>
+               <p n="6">6. <hi>Hereſie,</hi> to hold, after conuiction, errors againſt the foundation of Religi<g ref="char:EOLhyphen"/>on.</p>
+               <p n="7">7. The inward hatred and loathing of GOD: It ſhall ſuffice to haue thus touched theſe ſinnes.</p>
+               <p>The more vſuall ſins, and
+<pb n="70" facs="tcp:150818:47"/> ſuch as are found in the moſt men by nature, are ſuch as theſe.</p>
+               <p>That naturall <hi>Atheiſme</hi>
+                  <note place="margin">Naturall Atheiſme.</note> of which he is guilty.</p>
+               <p n="1">1. That cuſtomarily ſpends his time without God in the world, <hi>Epheſ.</hi> 2. 12.</p>
+               <p n="2">2. That conceiues A<g ref="char:EOLhyphen"/>theiſticall thoughts, and of ſuch thoughts hee is guilty.</p>
+               <p>That hath inward rea<g ref="char:EOLhyphen"/>ſonings, whether there be a God, to which his heart inclineth, <hi>Pſal.</hi> 14. 1.</p>
+               <p>That ſayeth, or think<g ref="char:EOLhyphen"/>eth, God wil neither doe good, nor euill, or that
+<pb n="71" facs="tcp:150818:47"/> hee neither ſeeth, or re<g ref="char:EOLhyphen"/>gardeth, <hi>Iſai.</hi> 29. 15. 16. <hi>Zeph. 1. 12. Ezech. 9. 9. Iob</hi> 22. 13.</p>
+               <p>That ſaith or thinketh, there is no profit in ſer<g ref="char:EOLhyphen"/>uing the Almighty, <hi>Iob</hi> 21. 14. &amp; 22. 17.</p>
+               <p>That in affliction ſaith or thinketh, it is impoſ<g ref="char:EOLhyphen"/>ſible to be deliuered, 2. <hi>King.</hi> 7. 2.</p>
+               <p>That hath inward boy<g ref="char:EOLhyphen"/>lings about ſuch things as God ſheweth not the reaſon of, <hi>Iob</hi> 33. 13.</p>
+               <p>That conceiues rebel<g ref="char:EOLhyphen"/>lious thoughts about the decrees or prouidence of God, <hi>Rom.</hi> 9.</p>
+               <pb n="72" facs="tcp:150818:48"/>
+               <p>Thus of naturall <hi>Atheiſme.</hi>
+               </p>
+               <p n="2">2. The ſecond ſinne is <hi>Epicuriſme,</hi> which is ſhew<g ref="char:EOLhyphen"/>ed,<note place="margin">Epicuriſm</note>
+               </p>
+               <p>By fulneſſe of bread and idleneſſe, <hi>Ezech. 16. 49. Phil.</hi> 3. 18.</p>
+               <p>By liuing in pleaſure<g ref="char:punc">▪</g> 
+                  <hi>Ecclus. 11. 9. Iames</hi> 5, 5.</p>
+               <p>By vanity and ſtrange<g ref="char:EOLhyphen"/>neſſe of apparell, <hi>Iſaiah 3. Zeph.</hi> 1.</p>
+               <p n="3">3. The third ſin, is the<note place="margin">Defects.</note> defect of thoſe graces, by which wee ſhould cleaue vnto God, and that alſo when wee want that life of them ſhould be in vs; ſuch are the defects of the warmth of the knowledge,
+<pb n="71" facs="tcp:150818:48"/> loue, and feare of God, &amp; of our ioying and truſting in God, <hi>Pſal. 36. 1. Zep. 3. 2 Prou. 30. 1. 2. Rom.</hi> 7. Theſe defects are the worſe, by reaſon of our impotency, and extreme indiſpoſiti<g ref="char:EOLhyphen"/>on to ſeeke to mend thoſe things. And therefore it is an aggrauation of any of theſe defects, that men do not <hi>ſtirre vp themſelues to take hold of GOD, Iſaiah</hi> 64. 7:</p>
+               <p n="4">4. The miſplacing of<note place="margin">Miſpla<g ref="char:EOLhyphen"/>cing of our affec<g ref="char:EOLhyphen"/>tions.</note> our affections in ſetting them vpon earthly things, employing our co<g ref="char:cmbAbbrStroke">̄</g>fidence, feare, ioy, or loue vpon the world, &amp; the things there<g ref="char:EOLhyphen"/>of,
+<pb n="72" facs="tcp:150818:49"/> whereby our hearts are any way alienated from God, <hi>Ieremy 17, 5. Iſai. 51. 7. 1. Ioh. 2. 15. Math.</hi> 6.</p>
+               <p n="5">5. <hi>Pride:</hi> And there is a foure-fold pride,<note place="margin">4. Sorts of pride.</note>
+               </p>
+               <p n="1">1. <hi>Arrogancie,</hi> ſhewed</p>
+               <p>By high lookes, or in<g ref="char:EOLhyphen"/>dignation of ſpirit, <hi>Iſai.</hi> 10. 12. &amp; 16. 6.</p>
+               <p>By feareleſneſſe of a fall in proſperity, and that boaſting hopeful<g ref="char:EOLhyphen"/>neſſe in a broken eſtate, <hi>Pſalm. 30. 6. Iſaiah 9. 10. Obad.</hi> 3.</p>
+               <p n="2">2. The pride of life, which hath in it the ſecret lifting vp of the heart, and glorying in friends, mony,
+<pb n="73" facs="tcp:150818:49"/> meanes, houſes, riches, beauty, or the like, 1. <hi>Iohn 2. 17. 2. Kings</hi> 20. 3. with 2. <hi>Chron.</hi> 32. 25.</p>
+               <p n="3">3. The pride of gifts, expreſt,</p>
+               <p>By great thoughts of our ſelues, beeing wiſe in our ſelues, <hi>Rom.</hi> 12. 16.</p>
+               <p>By fretting with enuy at the gifts and reſpects of o<g ref="char:EOLhyphen"/>thers, <hi>Numb.</hi> 12. 2, 8, 9.</p>
+               <p>By being ouer-confident of our owne innocency, <hi>Iob</hi> 34. 5, 6.</p>
+               <p>By deſire to pry into the ſecret things of God, be<g ref="char:EOLhyphen"/>ing not co<g ref="char:cmbAbbrStroke">̄</g>tent with things reuealed, <hi>Deut. 29. vlt. Rom.</hi> 12. 3.</p>
+               <p n="4">
+                  <pb n="74" facs="tcp:150818:50"/>4. Pride in ſinning, and ſo he is guilty,</p>
+               <p>That dares co<g ref="char:cmbAbbrStroke">̄</g>mit great euils againſt his knowledge.</p>
+               <p>That ſeems wiſe in main<g ref="char:EOLhyphen"/>taining ſinne, <hi>Prou. 3. 7. Pſa.</hi> 52. 7.</p>
+               <p>That hardens his heart againſt repentance, 1. <hi>Sam. 15. 22, 23. Numb. 15. 30, 31. Ierem. 16. 12<g ref="char:punc">▪</g> Iob</hi> 34. 37.</p>
+               <p>That ſinnes with affecta<g ref="char:EOLhyphen"/>tion, that glories in it, as he that takes a pride in drun<g ref="char:EOLhyphen"/>kenneſſe, <hi>Iſaiah</hi> 28. 1. 3.</p>
+               <p>That frets, becauſe hee is croſt in ſinne, <hi>Prou.</hi> 19, 3.<note place="margin">How ma<g ref="char:EOLhyphen"/>ny waies men ſinne againſt Gods mercy.</note> and thus of Pride.</p>
+               <p n="6">6. The ſixt ſinne is the neglect of Gods mercy: &amp;
+<pb n="75" facs="tcp:150818:50"/> this is the more grieuous offence, becauſe mercy is the moſt eminent attribute of God. For the ſinnes of this kinde, worlds of men are damned in hel, <hi>Ioh.</hi> 3. 19</p>
+               <p>And againſt Gods mer<g ref="char:EOLhyphen"/>cy he offends,</p>
+               <p>That askes wherein God hath loued him, <hi>Mal.</hi> 1. 2.</p>
+               <p>That abuſeth Gods bleſ<g ref="char:EOLhyphen"/>ſings, <hi>Hoſ.</hi> 10. 1. &amp; 11. 3, 4.</p>
+               <p>That obſerues not the mercy of God in his proui<g ref="char:EOLhyphen"/>dence, <hi>Hoſ.</hi> 2. 8.</p>
+               <p>That in aduerſity ſaith, God cares not for him, or hath paſſed ouer his iudge<g ref="char:EOLhyphen"/>ments, or hath forſaken him, <hi>Iſaiah</hi> 40. 28. &amp; 49, 14.</p>
+               <pb n="76" facs="tcp:150818:51"/>
+               <p>That inquireth not after God, <hi>Zeph.</hi> 1. 6.</p>
+               <p>That belieues not Gods promiſes, through neglect or deſpaire.</p>
+               <p>That bleſſeth his heart a<g ref="char:EOLhyphen"/>gainſt Gods threatnings, <hi>Deut.</hi> 29. 19.</p>
+               <p>That forſakes his owne mercy, by truſting to lying vanities, <hi>Ionah</hi> 2. 8.</p>
+               <p>That ſcoffes at the ſignes of Gods mercy, <hi>Iſaiah</hi> 7. 12, 13.</p>
+               <p>That ſacrificeth to his owne nette, aſcribing the praiſe to himſelf, <hi>Hab.</hi> 1. 16.</p>
+               <p>That ſeeks not to God in his diſtreſſe, 2. <hi>Chr.</hi> 16. 12.</p>
+               <p>That ſayes, God cannot
+<pb n="77" facs="tcp:150818:51"/> deliuer, 2. <hi>Kin.</hi> 6. 33. &amp; 7. 2.</p>
+               <p>That anſweres not when God calls, <hi>Iſaiah</hi> 50. 2.</p>
+               <p>That limits God, <hi>Pſal.</hi> 78.</p>
+               <p>That hath a ſpirit of bit<g ref="char:EOLhyphen"/>ternes through diſcontent, <hi>Hoſ.</hi> 12. 14.</p>
+               <p>That diſhonors God by his euill life, <hi>Rom.</hi> 2. 24.</p>
+               <p>Thus of the ſins againſt Gods mercy.</p>
+               <p n="7">7. The ſeuenth ſinne is reſorting to witches, <hi>Iſaiah 8. 19, 20. Leuit. 20. 6. Deut.</hi> 18. 4.</p>
+               <p n="8">8. Eighthly, he offends, that diſregards GODS workes, <hi>Iſaiah</hi> 5. 12.</p>
+               <p n="9">9. That lyes againſt God, hauing profeſſed to
+<pb n="78" facs="tcp:150818:52"/> haue God to bee his God, <hi>Iſai.</hi> 19. 13. and ſo he doth,</p>
+               <p>That oppoſeth the truth, and obiects againſt it.</p>
+               <p>That performes not what he promiſed in his ſicknes, or aduerſity, or at the Sa<g ref="char:EOLhyphen"/>raments.</p>
+               <p>That falls away from the Truth.</p>
+               <p n="10">10. That feares not<note place="margin">Offences againſt the feare of God.</note> God, or not in a right man<g ref="char:EOLhyphen"/>ner, and ſo he ſinneth,</p>
+               <p>That feares God only for reward, <hi>Iob</hi> 1. 9<g ref="char:punc">▪</g>
+               </p>
+               <p>That feareth God onely, becauſe of puniſhment, <hi>Hoſh.</hi> 3. 5.</p>
+               <p>That is not afraide of Gods preſence, or threat<g ref="char:EOLhyphen"/>nings,
+<pb n="79" facs="tcp:150818:52"/> 
+                  <hi>Pſal. 36. 1, 2. Iſai. 66. 1. Ierem.</hi> 6. 10.</p>
+               <p>That comforts not men in miſery, <hi>Iob</hi> 6. 14.</p>
+               <p>That meddles with chan<g ref="char:EOLhyphen"/>gers, or the ſeditious, <hi>Prou.</hi> 24. 21.</p>
+               <p>That in matter of ſinne is wiſe in his owne eyes, and will not depart from ini<g ref="char:EOLhyphen"/>quity, <hi>Prou.</hi> 3. 7.</p>
+               <p>That ſinnes, becauſe God doth forbeare to puniſh, <hi>Eccleſ. 8. 13. Pſal.</hi> 50. 19.</p>
+               <p>That feares the ſignes of heauen, <hi>Ierem.</hi> 10. 2.</p>
+               <p>That finds any hardneſſe of heart againſt Gods fear, <hi>Iſaiah</hi> 63. 17.</p>
+               <p>Thus of the ſinnes a<g ref="char:EOLhyphen"/>gainſt
+<pb n="80" facs="tcp:150818:53"/> the feare of God.</p>
+               <p n="11">11. That truſts not in<note place="margin">Offences againſt the truſt in God.</note> God, and ſo he offends,</p>
+               <p>That asketh not counſell of God, <hi>Iſaiah</hi> 31. 1. &amp; 30. 1, 2. but vſeth carnal helps.</p>
+               <p>That ſaith, There is no hope, <hi>Ierem.</hi> 2. 23.</p>
+               <p>That truſts in man, and makes fleſh his arme, <hi>Ier.</hi> 17. 5.</p>
+               <p>That puts his confidence in his wealth, <hi>Prou. 10. 15. Iob</hi> 31. 24.</p>
+               <p>That leanes to his owne vnderſtanding, <hi>Prou.</hi> 3. 5.</p>
+               <p>That drawes not neer vn<g ref="char:EOLhyphen"/>to God in aduerſity<g ref="char:punc">▪</g> 
+                  <hi>Zeph.</hi> 3. 2.</p>
+               <p>That impatiently deſireth
+<pb n="81" facs="tcp:150818:53"/> death, <hi>Iob</hi> 7. 15.</p>
+               <p>Thus of the ſins againſt truſt in God.</p>
+               <p n="12">12. That neglects com<g ref="char:EOLhyphen"/>munion with the godly: hee hath not God for his God, that is not ioyned to Gods people: and this is aggrauated againſt him,</p>
+               <p>That in contempt of godlineſſe, goeth in the company of the wicked, <hi>Iob</hi> 34. 8, 9.</p>
+               <p>That reproacheth Gods people, <hi>Pſal. 74. 1018. Iſai.</hi> 57. 3, 4.</p>
+               <p>That accounts the godly as ſignes and wonders, <hi>Iſai</hi> 8. 18.</p>
+               <p>That reioyceth in their
+<pb n="82" facs="tcp:150818:54"/> diſgraces, <hi>Ezech.</hi> 25. 6.</p>
+               <p>That forſakes their fel<g ref="char:EOLhyphen"/>lowſhip, eyther through careleſneſſe and Apoſtacy, <hi>Hebr.</hi> 10. 25. or through ſchiſme, <hi>Iſai.</hi> 65. 2, 5.</p>
+               <p>That for malice perſe<g ref="char:EOLhyphen"/>cutes them, or caſts them out of the Church, <hi>Iſaiah</hi> 66. 5.</p>
+               <p>And thus of the ſinnes againſt the nature of God.</p>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="83" facs="tcp:150818:54"/>
+               <head>CHAP. V.</head>
+               <argument>
+                  <p>Shewing how men offend a<g ref="char:EOLhyphen"/>gainſt the meanes of Gods Worſhip.</p>
+               </argument>
+               <p>THe ſinnes againſt the meanes of Gods wor<g ref="char:EOLhyphen"/>ſhip follow, and theſe are of three ſorts.</p>
+               <p n="1">1. Not worſhipping.</p>
+               <p n="2">2. Will-worſhipping.</p>
+               <p n="3">3. Idoll-worſhipping.</p>
+               <p>For the firſt, hee offends in generall,</p>
+               <p>That worſhips not God, <hi>Zach.</hi> 14. 17.</p>
+               <p>That cals not vpon the name of the Lord, <hi>Pſal. 14. 4. Iſai.</hi> 64. 7.</p>
+               <pb n="84" facs="tcp:150818:55"/>
+               <p>That comes not to the Church, 2. <hi>Chron.</hi> 29. 6, 7.</p>
+               <p>That prayes not in his fa<g ref="char:EOLhyphen"/>mily, <hi>Ier.</hi> 10. 25.</p>
+               <p>That receiueth not the Preachers of the Goſpell, <hi>Math.</hi> 10. 14.</p>
+               <p>The aggrauations are, when a man is ſo far from worſhipping aright,</p>
+               <p>That he offers the blind and the lame for the main<g ref="char:EOLhyphen"/>tenance of Gods ſeruice, <hi>Mal.</hi> 1<g ref="char:punc">▪</g> 8, 14.</p>
+               <p>That he deuoures things ſanctified, that ſhould bee imployed for the furthe<g ref="char:EOLhyphen"/>rance of Gods ſeruice, <hi>Pro.</hi> 20. 25.</p>
+               <p>That forbids Gods faith<g ref="char:EOLhyphen"/>full
+<pb n="85" facs="tcp:150818:55"/> Miniſters to preach in the name of Chriſt, <hi>Acts 4. 1. Theſ.</hi> 2. 16.</p>
+               <p>That diſſwades men from Gods worſhip, vpon pre<g ref="char:EOLhyphen"/>tence, that it is eyther pol<g ref="char:EOLhyphen"/>luted, <hi>Malac.</hi> 1. 7, 12, 13. or vaine, <hi>Mal.</hi> 3. 15.</p>
+               <p>That is wayward, or ne<g ref="char:EOLhyphen"/>uer pleaſed with all, or any part of Gods worſhip, or the meanes thereof, <hi>Math.</hi> 11. 1.</p>
+               <p>Thus of ſinnes of irreli<g ref="char:EOLhyphen"/>giouſneſſe, or not<g ref="char:punc">▪</g> worſhip<g ref="char:EOLhyphen"/>ping,</p>
+               <p>
+                  <hi>VVill-worſhip</hi> followes, and ſo he offends,</p>
+               <p n="1">1. That deuiſeth any thing of himſelfe, to the in<g ref="char:EOLhyphen"/>tent
+<pb n="86" facs="tcp:150818:56"/> to ſerue God by it, <hi>Num.</hi> 15. 38, 39.</p>
+               <p n="2">2. That ſerues God for cuſtome, or after the olde manner, making the exam<g ref="char:EOLhyphen"/>ple of Fathers, or forefa<g ref="char:EOLhyphen"/>thers the rule of his ſer<g ref="char:EOLhyphen"/>uice, 2. <hi>Kin. 17. 34. Ierem. 9. 13, 14. Amos 2. 4. 1. Pet.</hi> 1. 18.</p>
+               <p n="3">3. That feares God af<g ref="char:EOLhyphen"/>ter the precepts of men, <hi>Eſay</hi> 29. 13.</p>
+               <p n="4">4. That being not a mi<g ref="char:EOLhyphen"/>niſter, doth the worke of a Miniſter, vpon pretence of neceſſity or deuotion, 2. <hi>Chron.</hi> 26. 16.</p>
+               <p n="5">5. That vrgeth the leſſer things of the Law, and neglects the greater, <hi>Math.</hi> 23. 23.</p>
+               <pb n="87" facs="tcp:150818:56"/>
+               <p>The aggrauations are,</p>
+               <p>To vrge mens traditions with opinion of neceſſity, and with neglect of Gods Law, <hi>Math.</hi> 15. 2, 3, 9.</p>
+               <p>To deſire to bee taught vaine things, <hi>Iſaiah</hi> 30. 9, 10, 11.</p>
+               <p>To borrow rites and ob<g ref="char:EOLhyphen"/>ſeruations from the profeſ<g ref="char:EOLhyphen"/>ſed enemies of God, to adde them as parts of Gods worſhip, 2. <hi>Kings 17. 34. Deut. 12. 4. 13. Ezech.</hi> 11. 12.</p>
+               <p>Idoll-worſhip followes, and ſo men offend eyther 1. inwardly, or 2. outwardly.</p>
+               <p>Inwardly he offends, that conceiues of God in the
+<pb n="88" facs="tcp:150818:57"/> likeneſſe of any thing crea<g ref="char:EOLhyphen"/>ted, and manifeſts his of<g ref="char:EOLhyphen"/>fence, if he direct his wor<g ref="char:EOLhyphen"/>ſhip to that likeneſſe, com<g ref="char:EOLhyphen"/>manded, 2. <hi>Acts 17. 19. 1. Iohn</hi> 2. 23.</p>
+               <p>Outwardly hee offends,</p>
+               <p>That makes an image to reſemble God by it, <hi>Deut. 4. 12, 15. Eſay</hi> 40. 18.</p>
+               <p>That vſeth any geſture of loue and reuerence vnto ſuch images, by whomſoe<g ref="char:EOLhyphen"/>uer made, <hi>Hoſ.</hi> 13. 2.</p>
+               <p>That mentio<g ref="char:cmbAbbrStroke">̄</g>s the names of Idols, eyther by way of ſwearing, or Apology, <hi>Ex<g ref="char:EOLhyphen"/>odus</hi> 23. 13.</p>
+               <p>That is preſent at the idolatrous feaſts, &amp; there<g ref="char:EOLhyphen"/>fore
+<pb n="89" facs="tcp:150818:57"/> he much more offends that is preſent at the ſer<g ref="char:EOLhyphen"/>uice of the Idoll; 1. <hi>Cor. 10 21, 22. Exod. 34. 15. Pſalme</hi> 116. 8.</p>
+               <p>That worſhippeth the I<g ref="char:EOLhyphen"/>mage, or GOD in the I<g ref="char:EOLhyphen"/>mage, Commandement 2. <hi>Exod. 32. Hoſh.</hi> 2. 16.</p>
+               <p>Thus of the ſins againſt the meanes of Gods wor<g ref="char:EOLhyphen"/>ſhip.</p>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="90" facs="tcp:150818:58"/>
+               <head>CHAP. VI.</head>
+               <argument>
+                  <p>Shewing how many wayes men ſinne againſt the holy manner of Gods worſhip.</p>
+               </argument>
+               <p>THe ſinnes againſt the manner of Gods wor<g ref="char:EOLhyphen"/>ſhip follow.</p>
+               <p>And becauſe it were te<g ref="char:EOLhyphen"/>dious to reckon vp the ſe<g ref="char:EOLhyphen"/>uerall ſinnes againſt each part of Gods worſhip, be<g ref="char:EOLhyphen"/>cauſe in diuers things the ſame offe<g ref="char:cmbAbbrStroke">̄</g>ces may be com<g ref="char:EOLhyphen"/>mitted againſt any one of the parts of Gods ſeruice: Therefore I will briefely touch the generall vvaies
+<pb n="91" facs="tcp:150818:58"/> of offending in the manner of any worſhip of God, &amp; then more ſpecially reckon the ſins againſt thoſe parts of Gods worſhip, that are moſt vſuall, and ordinary:</p>
+               <p>It is an offence in any<note place="margin">Sins in a<g ref="char:EOLhyphen"/>ny part of Gods wor<g ref="char:EOLhyphen"/>ſhip.</note> ſeruice due to God, to ſerue him</p>
+               <p>Hypocritically; in ſhew and not in deed, <hi>Iſa.</hi> 29. 13.</p>
+               <p>Without Repentance: to bring the loue of any ſinne to any part of his ſer<g ref="char:EOLhyphen"/>uice, <hi>Eſay</hi> 1.</p>
+               <p>Without delight &amp; wil<g ref="char:EOLhyphen"/>lingneſſe, <hi>Ioſh.</hi> 24. 15.</p>
+               <p>Without conſtancy to ſerue him, but by fits, <hi>Hoſ.</hi> 6</p>
+               <p>Without conſideration,
+<pb n="92" facs="tcp:150818:59"/> or reuerence, <hi>Eccl.</hi> 5.</p>
+               <p>Thus in generall.</p>
+               <p>In particular,</p>
+               <p n="1">1. He offends in hearing<note place="margin">Sinnes in hearing.</note> the Word.</p>
+               <p>That is vnteachable, <hi>Eſay</hi> 28. 9, 10, 11.</p>
+               <p>That hath Idols in his heart through Luſt, or Ma<g ref="char:EOLhyphen"/>lice, or Couetouſneſſe, <hi>E<g ref="char:EOLhyphen"/>zech. 14. 7. Iam.</hi> 1. 18.</p>
+               <p>That heares without at<g ref="char:EOLhyphen"/>tention, and comes for cu<g ref="char:EOLhyphen"/>ſtomes ſake, <hi>Eccl. 5. 1. <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>c.</hi> 33. 31, 32.</p>
+               <p>That is not a doer of the Word, <hi>Math.</hi> 7. 26.</p>
+               <p n="2">2. He offends in Prayer,<note place="margin">Sinnes in prayer.</note>
+               </p>
+               <p>That prayes not at all times, or with perſeuerance
+<pb n="93" facs="tcp:150818:59"/> in prayer, <hi>Iob 27. 10. Luke</hi> 18. 1.</p>
+               <p>That prayes without vn<g ref="char:EOLhyphen"/>derſtanding, or power of the Spirit, 1. <hi>Cor.</hi> 14. 15.</p>
+               <p>That delights not in the Almighty, <hi>Iob</hi> 32. 26.</p>
+               <p>That regards wickednes in his heart, <hi>Pſalm. 66. 18. Prou. 21. 27. Iſaiah</hi> 1. 15, 16.</p>
+               <p>That doubts and wauers, or is diſcontented vpon falſe ſurmiſes, that God heareth him not, <hi>Iam. 1. 5, 6 Mal.</hi> 2. 13.</p>
+               <p n="3">3. Hee offends in the<note place="margin">Sinnes a<g ref="char:EOLhyphen"/>bout the Sacrame<g ref="char:cmbAbbrStroke">̄</g>t of the Lords Supper.</note> Sacrament of the Lords Supper,</p>
+               <p>That diſcernes not the Lords Body, 1. <hi>Cor.</hi> 11.</p>
+               <pb n="94" facs="tcp:150818:60"/>
+               <p>That examines not him<g ref="char:EOLhyphen"/>ſelfe before he eates of that bread, and drinkes of that cup, refuſing to iudge him<g ref="char:EOLhyphen"/>ſelfe for knowne offences, 1. <hi>Cor.</hi> 11.</p>
+               <p>That beleeues not the operation of God, <hi>Col.</hi> 3. 12.</p>
+               <p>That reconciles not him<g ref="char:EOLhyphen"/>ſelfe to ſuch as hee hath of<g ref="char:EOLhyphen"/>fended by treſpaſſing a<g ref="char:EOLhyphen"/>gainſt them, <hi>Mat.</hi> 5.</p>
+               <p>That deſpiſeth the Church and people of God, 1. <hi>Cor.</hi> 11.</p>
+               <p n="4">4. He offends in ſwea<g ref="char:EOLhyphen"/>ring,</p>
+               <p>That ſweares by that<note place="margin">About ſwearing.</note> which is no God, <hi>Ierem.</hi> 5.</p>
+               <p>That ſweares in com<g ref="char:EOLhyphen"/>mon
+<pb n="95" facs="tcp:150818:60"/> talke, and feares not an oath, <hi>Ierem. 23. 10. Mat. 5. 34. Eccl.</hi> 9. 2.</p>
+               <p>That ſweares falſly, <hi>Zach.</hi> 5. 2.</p>
+               <p>That loues falſe oathes, <hi>Zach.</hi> 8. 17.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. VII.</head>
+               <argument>
+                  <p>Which ſhewes how men of<g ref="char:EOLhyphen"/>fend in breaking the Sab<g ref="char:EOLhyphen"/>bath.</p>
+               </argument>
+               <p>HItherto of the ſins a<g ref="char:EOLhyphen"/>gainſt the meanes &amp; manner of Gods worſhip; the time of Gods worſhip followes, which is princi<g ref="char:EOLhyphen"/>pally the Sabbath.</p>
+               <pb n="96" facs="tcp:150818:61"/>
+               <p>Now ſinnes againſt the Sabboth are eyther more ſecretly, or more openly.</p>
+               <p>More ſecretly he offends,</p>
+               <p>That remembers not<note place="margin">More ſe<g ref="char:EOLhyphen"/>cret offen<g ref="char:EOLhyphen"/>ces againſt the Sab<g ref="char:EOLhyphen"/>both.</note> the Sabboth day before it come, to vnload his heart of worldly cares and buſi<g ref="char:EOLhyphen"/>neſſe.</p>
+               <p>That longs to haue the Sabboth ouer-paſt, <hi>Amos</hi> 8. 5.</p>
+               <p>That ſpends the day in idleneſſe.</p>
+               <p>That flouriſheth not ac<g ref="char:EOLhyphen"/>cording to the bleſſings of GOD, in reſpect of the meanes on the Sabboth day, <hi>Pſal.</hi> 92. The title, with verſ. 13. 14.</p>
+               <pb n="97" facs="tcp:150818:61"/>
+               <p>That honours not the Sabboth with delight to doe Gods worke on that day, <hi>Eſay</hi> 58. 13.</p>
+               <p>That is vnwilling to be informed concerning the authority &amp; ſeruice of the Sabboth. This is to hide his eyes from the Sabboth as the phraſe is, <hi>Ezech.</hi> 22. 26.</p>
+               <p>More openly he offends,<note place="margin">The open breaches.</note>
+               </p>
+               <p>That omits publike or priuate duties, or comes in too late, or goes out too ſoone, <hi>Ezech. 46. 10. Pſ.</hi> 92. the title with verſ. 2. <hi>Leuit.</hi> 13. 3.</p>
+               <p>That doth any manner of worke on that day,
+<pb n="98" facs="tcp:150818:62"/> 
+                  <hi>Exodus</hi> 20. 10, 11. &amp; 31. 15.</p>
+               <p>And thus he offends,</p>
+               <p>That ſels wares, <hi>Nehem.</hi> 10. 31. &amp; 13. 15, 20.</p>
+               <p>That carries burthens, <hi>Nehem. 13. 15, 19. Ierem.</hi> 17. 20.</p>
+               <p>That trauels abroad, <hi>Ex.</hi> 16. 24.</p>
+               <p>Yea, he offends,</p>
+               <p>That workes in harueſt on that day, <hi>Exodus 34. 22. Nehem.</hi> 13. 15.</p>
+               <p>That workes, vpon pre<g ref="char:EOLhyphen"/>tence<note place="margin">Note.</note> it is a light worke, <hi>Exod.</hi> 16. 27, 28. &amp; 35. 2, 3. <hi>Numb. 15. 32. Math.</hi> 12. 1. &amp;c.</p>
+               <p>That imployes his Cat<g ref="char:EOLhyphen"/>tell or Seruants, though he
+<pb n="99" facs="tcp:150818:62"/> worke not himſelfe, <hi>Exod.</hi> 23. 12.</p>
+               <p>That finds his pleaſures, that is, that vſeth recreati<g ref="char:EOLhyphen"/>ons, <hi>Iſaiah</hi> 58. 13.</p>
+               <p>That ſpeakes his owne words, <hi>Iſaiah</hi> 58. 13.</p>
+               <p>That hauing power, re<g ref="char:EOLhyphen"/>formes not the abuſes of o<g ref="char:EOLhyphen"/>thers againſt the Sabbath, <hi>Nehem. 13. Ierem.</hi> 17.</p>
+               <p>The aggrauation is, to do any of theſe things pre<g ref="char:EOLhyphen"/>ſumptuouſly.</p>
+            </div>
+            <div n="8" type="chapter">
+               <pb n="100" facs="tcp:150818:63"/>
+               <head>CHAP. VIII.</head>
+               <argument>
+                  <p>The diuiſion of the ſinnes a<g ref="char:EOLhyphen"/>gainſt the ſecond Table; and how men offend in the Family, Church or Com<g ref="char:EOLhyphen"/>mon-wealth.</p>
+               </argument>
+               <p>HItherto of ſinnes a<g ref="char:EOLhyphen"/>gainſt God.</p>
+               <p>The ſinnes againſt man are to be conſidered, 1. ey<g ref="char:EOLhyphen"/>ther more ſpecially, 2. or more generally:</p>
+               <p>More ſpecially wee of<g ref="char:EOLhyphen"/>fend againſt others in reſ<g ref="char:EOLhyphen"/>pect of that relation, wher<g ref="char:EOLhyphen"/>in wee ſtand as ſuperiours, or inferiours to them, and
+<pb n="101" facs="tcp:150818:63"/> ſo men offend,</p>
+               <p n="1">1. In the Family.</p>
+               <p n="2">2. In the Common<g ref="char:EOLhyphen"/>wealth.<note place="margin">The ſins.</note>
+               </p>
+               <p n="3">3. In the Church.</p>
+               <p>In the Family,</p>
+               <p n="1">1. The wife offends,<note place="margin">Of wiues.</note>
+               </p>
+               <p>That is not ſubiect to her husband, or not in eue<g ref="char:EOLhyphen"/>ry thing, <hi>Epheſians 5. 22, 24. Hoſh.</hi> 1. 12.</p>
+               <p>That is waſtefull, <hi>Prou.</hi> 14. 1.</p>
+               <p>That is froward, <hi>Prou.</hi> 21. 9. 19.</p>
+               <p>That is idle, <hi>Prou.</hi> 31.</p>
+               <p n="2">2. The husband offends,<note place="margin">Of huſ<g ref="char:EOLhyphen"/>bands.</note>
+               </p>
+               <p>That loues not his wife, <hi>Epheſ.</hi> 5. 25.</p>
+               <p>That dwells not with her
+<pb n="102" facs="tcp:150818:64"/> as a man of knowledge, 1. <hi>Pet.</hi> 3. 7.</p>
+               <p n="3">3. The child offends,<note place="margin">Of childre<g ref="char:cmbAbbrStroke">̄</g>
+                  </note>
+               </p>
+               <p>That diſobeyes his pa<g ref="char:EOLhyphen"/>rents, <hi>Rom. 1. 30. Tit. 1. 6. Epheſ.</hi> 6. 1.</p>
+               <p>That vſeth any vnreue<g ref="char:EOLhyphen"/>rent behauiour, or any way ſets light by them, Com<g ref="char:EOLhyphen"/>mandement 5. <hi>Eze.</hi> 22. 7.</p>
+               <p>That receiueth not re<g ref="char:EOLhyphen"/>buke or correction with ſubmiſſion and reuerence, <hi>Prou. 13. 1. Hebr.</hi> 12. 9.</p>
+               <p>That releeues not his Pa<g ref="char:EOLhyphen"/>rents in their wants, <hi>Math.</hi> 15. 5.</p>
+               <p>The aggrauations are,</p>
+               <p>To deſpiſe their inſtruc<g ref="char:EOLhyphen"/>tions, <hi>Prou.</hi> 15. 5.</p>
+               <pb n="103" facs="tcp:150818:64"/>
+               <p>To diſcouer their infir<g ref="char:EOLhyphen"/>mities, <hi>Gen.</hi> 9. 22.</p>
+               <p>To deſpiſe their perſons, eyther for deformity, or infirmity, <hi>Prouerbs</hi> 23. 22.</p>
+               <p>To ſhame them, or grieue them, <hi>Prou.</hi> 28. 7. &amp; 27. 11. &amp; 10. 1.</p>
+               <p>To mocke them, <hi>Prou.</hi> 30. 17.</p>
+               <p>To curſe them, <hi>Pro. 20. 20. &amp; 31. 11. Exod.</hi> 21. 17.</p>
+               <p>To ſmite them, <hi>Exod.</hi> 21. 15.</p>
+               <p>To waſte their eſtates, or chaſe them away from him, <hi>Prou.</hi> 19. 26.</p>
+               <p n="4">4. The parents offend,<note place="margin">Of Pare<g ref="char:cmbAbbrStroke">̄</g>ts.</note>
+               </p>
+               <p>In generall, that bring
+<pb n="104" facs="tcp:150818:65"/> not vp their children in nurture, and inſtruction of the Lord, <hi>Epheſ.</hi> 6. 4.</p>
+               <p>In particular,</p>
+               <p>That reſtraine not ſinne in them, 1. <hi>Sam.</hi> 3. 13.</p>
+               <p>That correct them not, but leaue them to them<g ref="char:EOLhyphen"/>ſelues, <hi>Prou.</hi> 22. 15. &amp; 23. 13. &amp; 29. 15.</p>
+               <p>That prouoke them to wrath by immoderate cor<g ref="char:EOLhyphen"/>rection, or rebuke, or in<g ref="char:EOLhyphen"/>temperate ſpeeches, <hi>Epheſ.</hi> 6. 4.</p>
+               <p>That prouide not for them in their callings, or outward eſtates, or marri<g ref="char:EOLhyphen"/>age, 1. <hi>Tim.</hi> 5. 8.</p>
+               <p n="5">5. Seruants offend,<note place="margin">Of ſer<g ref="char:EOLhyphen"/>uants.</note>
+               </p>
+               <pb n="105" facs="tcp:150818:65"/>
+               <p>That are idle and ſloth<g ref="char:EOLhyphen"/>full.</p>
+               <list>
+                  <item>That obey diſorderly, as</item>
+                  <item>Without reuerence and feare,</item>
+                  <item>Without ſingleneſſe of hart, not as vnto <hi>Chriſt,</hi>
+                  </item>
+                  <item>With eye-ſeruice, as men-pleaſers,</item>
+                  <item>Grudgingly, and not from the heart, <hi>Epheſ.</hi> 6. 5, 6, 7, 8.</item>
+               </list>
+               <p>That are vnfaithfull, and ſhew it, eyther by purloy<g ref="char:EOLhyphen"/>ning, <hi>Titus.</hi> 2. 10. Or by careleſneſſe, when they are ſuch as cannot bee truſted in any buſines, <hi>Prou.</hi> 13. 17.</p>
+               <p>The aggrauations are,</p>
+               <p>To anſwer again, <hi>Tit.</hi> 2. 9
+<pb n="106" facs="tcp:150818:66"/> out of contempt, or ſullen<g ref="char:EOLhyphen"/>neſſe, not to anſwer, <hi>Prou. 29. 19. Iob</hi> 19. 16.</p>
+               <p>To run away, <hi>Philemon.</hi>
+               </p>
+               <p>Through pride and folly, to ſeeke to rule, <hi>Pro.</hi> 19. 20. &amp; 30. 22.</p>
+               <p n="6">6. Maſters offend,<note place="margin">Of Ma<g ref="char:EOLhyphen"/>ſters.</note>
+               </p>
+               <p>That entertaine wicked ſeruants, <hi>Pſal.</hi> 101.</p>
+               <p>That gouern their family negligently, 1. <hi>Tim.</hi> 1. 4.</p>
+               <p>That with-hold what is iuſt and equall, in diet, wa<g ref="char:EOLhyphen"/>ges, incouragement, &amp;c. <hi>Coloſ. 4. 1. Iam.</hi> 5. 4.</p>
+               <p>That vſe indiſcreete and immoderate threatening, <hi>Epheſ.</hi> 6. 9. Thus of the of<g ref="char:EOLhyphen"/>fences in the family.</p>
+               <pb n="107" facs="tcp:150818:66"/>
+               <p>In the <hi>Common-wealth.</hi>
+               </p>
+               <p n="1">1. Subiects offend,<note place="margin">Of Sub<g ref="char:EOLhyphen"/>iects.</note>
+               </p>
+               <p>That ſpeake euill of their rulers, <hi>Exod. 21. 28. Eccleſ. 10 vlt.</hi>
+               </p>
+               <p>That are diſobedient to them, <hi>Rom.</hi> 13.</p>
+               <p>That pay not tribute or cuſtome, <hi>Rom.</hi> 13.</p>
+               <p>That rebell, or are ſediti<g ref="char:EOLhyphen"/>ous, 1. <hi>Tim.</hi> 3.</p>
+               <p n="2">2. Magiſtrates offend,<note place="margin">Of Magi<g ref="char:EOLhyphen"/>ſtrates.</note>
+               </p>
+               <p>That oppreſſe the people by exactions, or other<g ref="char:EOLhyphen"/>wiſe, <hi>Prou. 28. 15. Ezech.</hi> 45. 9.</p>
+               <p>That make vniuſt lawes, or execute not iuſt lawes, <hi>Eſay 10. 1. Ier. 5. 1. Mich.</hi> 3. 9.</p>
+               <pb n="108" facs="tcp:150818:67"/>
+               <p>That are vnrighteous in iudgement, eyther by bri<g ref="char:EOLhyphen"/>bery, or lenity, or rigour, or couetouſneſſe, or wreſting the Law, <hi>Leuit.</hi> 19. 15.</p>
+               <p>In the Church,</p>
+               <p n="1">1. The people offend,<note place="margin">Of hea<g ref="char:EOLhyphen"/>rers.</note>
+               </p>
+               <p>That pay not their tithes, or contributions, <hi>Malac. 1. 1. Cor. 9. Gal.</hi> 6.</p>
+               <p>That ſubiect not them<g ref="char:EOLhyphen"/>ſelues, but diſobey them that haue the ouer-ſight of them, <hi>Heb.</hi> 13. 17.</p>
+               <p n="2">2. The Miniſters offend,<note place="margin">Of Mini<g ref="char:EOLhyphen"/>ſters.</note>
+               </p>
+               <p>That preach not, or not conſtantly: but more of their ſinnes afterwards a<g ref="char:EOLhyphen"/>mongſt the ſins againſt the ſoules of men.</p>
+            </div>
+            <div n="9" type="chapter">
+               <pb n="109" facs="tcp:150818:67"/>
+               <head>CHAP. IX.</head>
+               <argument>
+                  <p>Of the ſinnes againſt mans perſon.</p>
+               </argument>
+               <p>THus of the ſins againſt man, conſidered more ſpecially.</p>
+               <p>More generally man ſins againſt man,</p>
+               <list>
+                  <item>Eyther with conſent of his will,</item>
+                  <item>Or without conſent.</item>
+               </list>
+               <p>The ſinnes with conſent are,</p>
+               <list>
+                  <item>Eyther againſt the per<g ref="char:EOLhyphen"/>ſon of man,</item>
+                  <item>Or the purity of man,</item>
+                  <item>Or the poſſeſſions and ſtate of man.</item>
+               </list>
+               <pb n="110" facs="tcp:150818:68"/>
+               <p>Or the name and praiſe of man.</p>
+               <p>The ſins againſt the per<g ref="char:EOLhyphen"/>ſons<g ref="char:punc">▪</g> of men are</p>
+               <list>
+                  <item>Eyther againſt the whole perſons,</item>
+                  <item>Or againſt their ſoules,</item>
+               </list>
+               <p>Or againſt their bodies.</p>
+               <p>The ſins againſt the per<g ref="char:EOLhyphen"/>ſons of men generally con<g ref="char:EOLhyphen"/>ſidered, are</p>
+               <p>Eyther by Omiſſion,</p>
+               <p>Or by Commiſſion.</p>
+               <p n="1">1. By Omiſſion he offends,</p>
+               <p>That pitties not the affli<g ref="char:EOLhyphen"/>cted, <hi>Iob</hi> 6. 14.</p>
+               <p>That releeues not the af<g ref="char:EOLhyphen"/>flicted, 1. <hi>Iohn 3. 17. Math. 25. Iob</hi> 31. 19.</p>
+               <p>That is implacable, and
+<pb n="111" facs="tcp:150818:68"/> will not forgiue, <hi>Rom. 1. 29. Iam.</hi> 2. 13.</p>
+               <p>The aggrauations are,</p>
+               <p>To profeſſe to take no charge of his brother, <hi>Gen.</hi> 4. 9.</p>
+               <p>To ſtop his eares at the cry of the poor, <hi>Pro.</hi> 21. 23.</p>
+               <p>To eſtrange our ſelues from the very ſeruants of God in their miſery, <hi>Pſal.</hi> 38. 11.</p>
+               <p n="2">2. By Commiſſion men ſinne, 1. eyther outwardly, 2. or inwardly.</p>
+               <p>Inwardly he offends,</p>
+               <p n="1">1. That enuies his neigh<g ref="char:EOLhyphen"/>bour, <hi>Gal.</hi> 1. 20. eyther</p>
+               <p>For his wealth<g ref="char:punc">▪</g> 
+                  <hi>Gen.</hi> 26. 14.</p>
+               <pb n="112" facs="tcp:150818:69"/>
+               <p>For his reſpect with o<g ref="char:EOLhyphen"/>thers, <hi>Gen.</hi> 37. 11.</p>
+               <p>For his gifts, <hi>Num. 11. 27, 28. 1. Cor.</hi> 3. 3.</p>
+               <p>The aggrauations are,</p>
+               <p>So to enuy others, as to deſire their reſtraint, <hi>Num.</hi> 11.</p>
+               <p>To enuy the very wicked, eſpecially ſo, as to deſire to partake of their delights, <hi>Prou.</hi> 24. 1.</p>
+               <p n="2">2. That is angry vnad<g ref="char:EOLhyphen"/>uiſedly, <hi>Math.</hi> 5.</p>
+               <p>The aggrauations.</p>
+               <p>To bee haſty to anger, <hi>Ecclus. 7. 9. Prou.</hi> 14. 17, 29.</p>
+               <p>To continue long in an<g ref="char:EOLhyphen"/>ger, <hi>Amos</hi> 1. 11.</p>
+               <p>To rage &amp; bee confident
+<pb n="113" facs="tcp:150818:69"/> without feare or care, <hi>Prou.</hi> 14. 16.</p>
+               <p>To bee incenſed againſt the ſeruants of God, and ſtriue with them, <hi>Eſay</hi> 41. 11</p>
+               <p>To make friendſhip with the angry man, <hi>Pro.</hi> 22. 24, 25.</p>
+               <p n="3">3. That hates &amp; is ma<g ref="char:EOLhyphen"/>licious, which ſinne is not auoyded, though the per<g ref="char:EOLhyphen"/>ſon thou hateſt</p>
+               <p>Be poore, <hi>Iam.</hi> 2. 6.</p>
+               <p>Be infirme, and haue ma<g ref="char:EOLhyphen"/>ny weakneſſes, <hi>Mat.</hi> 18. 10.</p>
+               <p>Yea, though they ſinne, <hi>Leuit.</hi> 19. 17, 18.</p>
+               <p>The aggrauations are,</p>
+               <p>To increaſe in anger and hatred vpon euery occaſi<g ref="char:EOLhyphen"/>on,
+<pb n="112" facs="tcp:150818:70"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="113" facs="tcp:150818:70"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="114" facs="tcp:150818:71"/> 
+                  <hi>Gen. 37. 8. Eze.</hi> 25. 15.</p>
+               <p>To wiſh a curſe to others <hi>Iob</hi> 31. 30.</p>
+               <p>To reioyce at their de<g ref="char:EOLhyphen"/>ſtruction, <hi>Prou. 24. 17. Iob</hi> 31. 29.</p>
+               <p>To recompence euil, <hi>Pro.</hi> 24. 29.</p>
+               <p>Not to bee ſatisfied with the trouble of thoſe, whom hee purſueth, <hi>Iob</hi> 19. 22.</p>
+               <p>That hates righteous men, and ſhewes it,</p>
+               <p>By wiſhing their euill, <hi>Pſal.</hi> 40. 14.</p>
+               <p>By reioycing at their hurt, <hi>Pſal.</hi> 35. 26.</p>
+               <p>By gathering ſinfull ſur<g ref="char:EOLhyphen"/>miſes into his heart, when hee comes amongſt them,
+<pb n="115" facs="tcp:150818:71"/> and then telling them, when hee comes abroad, <hi>Pſal.</hi> 41. 6.</p>
+               <p>By iudging vncharitably of their afflictions, <hi>Pſ.</hi> 41. 8.</p>
+               <p>Eſpecially, that hates them for this reaſon, be<g ref="char:EOLhyphen"/>cauſe their workes are bet<g ref="char:EOLhyphen"/>ter then his, 1. <hi>Iohn</hi> 3. 12. &amp; 2. 11.</p>
+               <p n="4">4. That vexeth himſelfe with worldly ſorrow, and cauſes diſtractions, <hi>Prou. 17. 22. 2. Cor.</hi> 7. 10. and vſeth crying, <hi>Epheſ.</hi> 4. 31.</p>
+               <p>The aggrauations are,</p>
+               <p>To refuſe co<g ref="char:cmbAbbrStroke">̄</g>fort, <hi>Pſ.</hi> 17. 7.</p>
+               <p>To wiſh his owne death, <hi>Num. 14. 2. Iob 3. Ionah.</hi>
+               </p>
+               <p>Thus of the ſins internall.
+<pb n="116" facs="tcp:150818:72"/> The externall ſinnes are,</p>
+               <list>
+                  <item>Eyther in geſture,</item>
+                  <item>or in words,</item>
+                  <item>or in workes.</item>
+               </list>
+               <p n="1">1. In geſture men offend by ſhaking of the head, ſharpning of the eyes, ca<g ref="char:EOLhyphen"/>ſting downe of the counte<g ref="char:EOLhyphen"/>nance, putting out of the finger, gnaſhing of the teeth, <hi>Iob 16. 4, 9. Eſay. 58. Pſal.</hi> 35. 19. &amp; 37. 11. &amp; 12. 5 <hi>Gen.</hi> 4.</p>
+               <p n="2">2 In words he offends, that ſpeakes euill of any man, <hi>Tit. 3. 2. Mat.</hi> 5. whe<g ref="char:EOLhyphen"/>ther it be</p>
+               <p>By cenſuring, <hi>Rom. 14. 10. Iam. 4. 11. Galat.</hi> 5. 15.</p>
+               <p>Or by reuiling or repro<g ref="char:EOLhyphen"/>ching,
+<pb n="117" facs="tcp:150818:72"/> 
+                  <hi>Math.</hi> 5.</p>
+               <p>Or by any kinde of pier<g ref="char:EOLhyphen"/>cing bitter words, <hi>Pr.</hi> 12. 8.</p>
+               <p>Yea it is an offence, to Render reuiling for reui<g ref="char:EOLhyphen"/>ling, 1. <hi>Pet.</hi> 3. 9.</p>
+               <p>To whiſper euill of o<g ref="char:EOLhyphen"/>thers, though neuer ſo ſe<g ref="char:EOLhyphen"/>cretly, <hi>Pſal.</hi> 41. 7.</p>
+               <p>To wreſt the words of o<g ref="char:EOLhyphen"/>thers for euill, <hi>Pſal.</hi> 56. 1.</p>
+               <p>The aggrauations are,</p>
+               <p n="1">1. To ſpeake euill of dignitie, <hi>Iude</hi> 8.</p>
+               <p n="2">2. To reproach Gods ſeruants, this is blaſphemy, <hi>Coloſ.</hi> 3. 8. and it is worſe when men teare their names, <hi>Pſal.</hi> 35. 15. and it is increaſed<g ref="char:punc">▪</g> when men re<g ref="char:EOLhyphen"/>uile
+<pb facs="tcp:150818:73"/> Gods Miniſters, 1. <hi>Cor. 4. 3. 2. Kings</hi> 2. 23.</p>
+               <p n="3">3. To curſe the deafe, or put a ſtumbling blocke be<g ref="char:EOLhyphen"/>fore the blinde, <hi>Leuit.</hi> 19. 14.</p>
+               <p n="4">4. To deride men in mi<g ref="char:EOLhyphen"/>ſery, <hi>Iob</hi> 3. 1.</p>
+               <p n="5">5. To take a pleaſure in brawling and contention, <hi>Iames 4. 1. Pſalme</hi> 52. 4.</p>
+               <p n="6">6. To haue a mouth full of curſing and bitterneſſe, <hi>Rom. 3. 14. Iames</hi> 3. 9. and an habit of frowardnes &amp; peruerſneſſe of lippes, <hi>Pro.</hi> 4. 24. and an vnruly tongue that cannot be tamed, <hi>Iam.</hi> 3. 8.</p>
+               <p n="7">7. To boaſt of his miſ<g ref="char:EOLhyphen"/>chiefe herein, <hi>Pſal.</hi> 52. 1.</p>
+               <p n="8">
+                  <pb n="119" facs="tcp:150818:73"/>8. To complaine of his neighbor in all places, and to be giuen to it, <hi>Iam.</hi> 5. 9.</p>
+               <p>Thus hee offends in words<g ref="char:punc">▪</g>
+               </p>
+               <p n="3">3. In works he offends.</p>
+               <p n="1">1. In generall, that pra<g ref="char:EOLhyphen"/>ctiſeth any way the hurt of the perſons of others, ey<g ref="char:EOLhyphen"/>ther by fraud or violence. The aggrauations of hurt<g ref="char:EOLhyphen"/>full practices are,</p>
+               <p n="1">1. To adde affliction to the afflicted, <hi>Pſal.</hi> 96. 26.</p>
+               <p n="2">2. To deale vnfaithfully with our friend, and to be<g ref="char:EOLhyphen"/>tray him, <hi>Pſal.</hi> 41. 9.</p>
+               <p n="3">3. To practiſe againſt the righteous, or any way to trouble them, <hi>Pſalm.</hi> 37.
+<pb n="120" facs="tcp:150818:74"/> 12. 14. 2. <hi>Theſsal.</hi> 1. 6. and this receiueth increaſe of aggrauation.</p>
+               <p>If thou practiſe againſt them becauſe they follow goodneſſe, <hi>Pſal.</hi> 38. 19.</p>
+               <p>If thou wrong them, when thou haſt receiued good from them: <hi>Pſalme</hi> 38. 20. and the worſe, if thou doe it daily, <hi>Pſalme</hi> 56. 1.</p>
+               <p>If thou marke their ſteps, waiting for occaſion to bring euil vpon them, <hi>Pſal.</hi> 38. 12. &amp; 56. 6.</p>
+               <p>If thou ſet on others to hurt them, out of de<g ref="char:EOLhyphen"/>light, and with ioy, <hi>Ezech.</hi> 36. 5.</p>
+               <pb n="121" facs="tcp:150818:74"/>
+               <p>If through diſſimulati<g ref="char:EOLhyphen"/>on thou cauſe one priuily to betray them, <hi>Galathians</hi> 2. 4.</p>
+               <p>If thou abuſe them when they are dead<g ref="char:punc">▪</g> 
+                  <hi>Pſal.</hi> 72. 9.</p>
+               <p n="2">2 In particular.</p>
+               <p>That is contentious, <hi>Rom.</hi> 13. 13.</p>
+               <p>The aggrauations are,</p>
+               <p>Through contention to be ſcandalous, <hi>Gen. 13. 7. 1. Cor.</hi> 6. 1, 4.</p>
+               <p>To ſow diſcord, <hi>Prou.</hi> 6. 14.</p>
+               <p>To fall at ſtrife without conſideration, eſpecially to bring others in trouble too, <hi>Prou.</hi> 17. 14. &amp; 20. 3. &amp; 26. 17. &amp; 19. 19.</p>
+               <pb n="122" facs="tcp:150818:75"/>
+               <p>To oppreſſe the father<g ref="char:EOLhyphen"/>leſſe in ſuites, <hi>Iob</hi> 31. 21.</p>
+               <p>Thus of ſinnes againſt the whole perſon.</p>
+               <p>Sinnes againſt the body follow, and ſo men offend,</p>
+               <p n="1">1. By fighting, and ſo hee offends that any way woundeth or blemiſheth another, <hi>Exod. 21. 24. Leu. 24. 19. Exo.</hi> 2. 13, 14. Whe<g ref="char:EOLhyphen"/>ther hee ſmite in ſcorne or in fury, 1. <hi>King.</hi> 22. 24. Eſpe<g ref="char:EOLhyphen"/>cially, that hurts a woman with childe, <hi>Exod.</hi> 21. 22.</p>
+               <p n="2">2. By murther, and ſo he offends that takes away the life of another willing<g ref="char:EOLhyphen"/>lie.</p>
+               <p>The aggrauations of
+<pb n="123" facs="tcp:150818:75"/> murther are,</p>
+               <p>To kil Father or Mother, 1. <hi>Tim.</hi> 1. 9.</p>
+               <p>To kill ones children, 2. <hi>Kings</hi> 3. 27. though it were done for ſacrifice.</p>
+               <p>To kill Gods ſeruants, <hi>Heb. 11. 37. Reuel.</hi> 16. 6.</p>
+               <p>To kill himſelfe.</p>
+               <p>Thus of offences againſt the body.</p>
+               <p>The ſinnes againſt the ſoule follow.</p>
+               <p>Againſt the ſoule offend,</p>
+               <p n="1">1. Miniſters, and ſo he That is ignorant &amp; can<g ref="char:EOLhyphen"/>not teach and warne the people of their ſins, <hi>Iſaiah 56. 10. Ezech.</hi> 31.</p>
+               <p>That is prophane in his
+<pb n="124" facs="tcp:150818:76"/> diſpoſition and life, <hi>Ierem.</hi> 23. 14, 11.</p>
+               <p>That runnes before hee be ſent, <hi>Ier.</hi> 23. 21.</p>
+               <p>That is negligent in his calling, and vſeth not his gifts, 1. <hi>Tim.</hi> 4. 14.</p>
+               <p>That teacheth falſe do<g ref="char:EOLhyphen"/>ctrine, and prophecieth in <hi>Baal, Ierem.</hi> 23. 13.</p>
+               <p>That preacheth peace to wicked men, and ſtreng<g ref="char:EOLhyphen"/>theneth them in their euill courſes, <hi>Ezech. 13. 18, 22. Ierem.</hi> 23. 14, 15, 17.</p>
+               <p>That teacheth vnprofi<g ref="char:EOLhyphen"/>tably, doating about vaine queſtions, and ſtrife of words, vſing railing or old wiues fables, &amp; prophane con<g ref="char:EOLhyphen"/>ceits,
+<pb n="125" facs="tcp:150818:76"/> &amp;c. or the like vnpro<g ref="char:EOLhyphen"/>fitable matter, 1. <hi>Tim.</hi> 1. 3, 4, 7. &amp; 4. 7. &amp;<g ref="char:punc">▪</g> 6. 4.</p>
+               <p>That in his teaching diſ<g ref="char:EOLhyphen"/>graceth and reuileth the godly, <hi>Ezech. 13. 22. Phil.</hi> 3. 2.</p>
+               <p n="2">2. The people, who may be guilty of murthering ei<g ref="char:EOLhyphen"/>ther others or themſelues.</p>
+               <p>Others, and ſo hee of<g ref="char:EOLhyphen"/>fends,</p>
+               <p>That ſuffereth his bro<g ref="char:EOLhyphen"/>ther to ſinne, and doth not reprooue him, <hi>Leuit.</hi> 9. 17.</p>
+               <p>That giueth offence, and is a ſtumbling blocke to the weake, <hi>Rom. 14. 13. 1. Cor. 8. 12. Math.</hi> 18. 6.</p>
+               <pb n="126" facs="tcp:150818:77"/>
+               <p>That inſtructs not o<g ref="char:EOLhyphen"/>thers when hee may and ought.</p>
+               <p>That maketh or parta<g ref="char:EOLhyphen"/>keth in any Schiſme in the Church, 1. <hi>Cor.</hi> 10. 11, 12.</p>
+               <p>Our ſelues, and ſo he of<g ref="char:EOLhyphen"/>fends,</p>
+               <p>That neglects Viſion, or the meanes of knowledge, and Grace, <hi>Hoſh.</hi> 4. 6.</p>
+               <p>That is ſubiect to no ſet<g ref="char:EOLhyphen"/>led Miniſtry, but hath itch<g ref="char:EOLhyphen"/>ing eares, and ſeeks a heap of Teachers, 2. <hi>Tim.</hi> 4. 3.</p>
+               <p>That is wilfull in impeni<g ref="char:EOLhyphen"/>tency, <hi>Ezech.</hi> 18.</p>
+               <p>That forſakes the fellow<g ref="char:EOLhyphen"/>ſhip of the Saints, <hi>Hebr.</hi> 10. 25.</p>
+               <pb n="127" facs="tcp:150818:77"/>
+               <p>That refuſeth admoniti<g ref="char:EOLhyphen"/>on, 2. <hi>Chron. 16. 10. Prou.</hi> 29. 1.</p>
+               <p>That reſiſteth the Truth, 2. <hi>Tim.</hi> 3. 8.</p>
+               <p>Thus of ſinnes againſt the perſons of men.</p>
+            </div>
+            <div n="10" type="chapter">
+               <pb n="128" facs="tcp:150818:78"/>
+               <head>CHAP. X.</head>
+               <argument>
+                  <p>Shewing the ſinnes againſt Chaſtity.</p>
+               </argument>
+               <p>THe ſinnes againſt the purity of men follow, and are eyther more groſſe and vnuſuall, and againſt the light of nature, or elſe more vſuall.</p>
+               <p>The groſſe offences are</p>
+               <p n="1">1. Buggery, <hi>Exod.</hi> 22. 19</p>
+               <p n="2">2. Sodomitry, <hi>Rom. 1. 27. 1. Tim.</hi> 1. 9.</p>
+               <p n="3">3. Inceſt, <hi>Leuit.</hi> 18.</p>
+               <p n="4">4. Poligamy, <hi>Mal.</hi> 2. 15</p>
+               <p n="5">5. The vnnaturall filthi<g ref="char:EOLhyphen"/>neſſe of women one with
+<pb n="129" facs="tcp:150818:78"/> another, <hi>Rom.</hi> 1. 26.</p>
+               <p n="6">6. Selfe-pollution, or the tranſgreſſion of <hi>Onan, Gen.</hi> 38. 9.</p>
+               <p n="7">7. The ſinnes about di<g ref="char:EOLhyphen"/>uorce, ſo hee offends,</p>
+               <p>That puts away his wife, and not for fornication, <hi>Math.</hi> 5. 32.</p>
+               <p>That marrieth her that is vniuſtly diuorced.</p>
+               <p>That marrieth himſelfe againe, after hee hath vn<g ref="char:EOLhyphen"/>iuſtly put away his wife, <hi>Math.</hi> 19. 9.</p>
+               <p n="8">8. Fornication, <hi>Eph.</hi> 5. 3.</p>
+               <p n="9">9. Whoredome or a<g ref="char:EOLhyphen"/>dultery, 1. <hi>Cor. 6. 9. Iude</hi> 15.</p>
+               <p>The aggrauations of whoredome are</p>
+               <p n="1">
+                  <pb n="130" facs="tcp:150818:79"/>1. To force any to it, 2. <hi>Sam.</hi> 13. 14.</p>
+               <p n="2">2. That a man and his Father ſhould goe in to a maide, <hi>Amos</hi> 2. 7.</p>
+               <p n="3">3. To condemn it in o<g ref="char:EOLhyphen"/>thers, &amp; yet commit it him<g ref="char:EOLhyphen"/>ſelfe, <hi>Rom.</hi> 2. 22.</p>
+               <p n="4">4. To intiſe others, <hi>Gen. 39. 7. Prou.</hi> 2. 14.</p>
+               <p n="10">10. To marry the daugh<g ref="char:EOLhyphen"/>ter of a ſtrange god, <hi>Mal. 2. 11. Nehem. 13. 27. 2. Cor.</hi> 6. 17.</p>
+               <p>The more vſuall <hi>ſinnes</hi> ſinnes follow:</p>
+               <p>And ſo men offend ey<g ref="char:EOLhyphen"/>ther internally, or external<g ref="char:EOLhyphen"/>lie.</p>
+               <p>Internally he offends,</p>
+               <pb n="131" facs="tcp:150818:79"/>
+               <p>That hath impure thoughts, <hi>Math. 5. 19. Epheſians. 2. 3. 1. Theſſal.</hi> 4. 5.</p>
+               <p>That hath inordinate affections, and burning luſts, <hi>Coloſ.</hi> 3. 5.</p>
+               <p>Externally men offend,</p>
+               <p n="1">1. In their ſenſes, as by impure lookes, <hi>Iob 31. 1. Math. 5. 27. 2. Pet.</hi> 2. 14.</p>
+               <p n="2">2. In their geſtures, and ſo they are guilty of cham<g ref="char:EOLhyphen"/>bering and wantonneſſe, <hi>Rom.</hi> 13. 13.</p>
+               <p n="3">3. In their words, by fil<g ref="char:EOLhyphen"/>thy ſpeaking, <hi>Col.</hi> 3. 8.</p>
+               <p n="4">4. By vſing the meanes, or occaſion of vncleannes.</p>
+               <p>And in reſpect of the
+<pb n="132" facs="tcp:150818:80"/> meanes of vncleanneſſe he offends,</p>
+               <p>That makes light of the fornication of others, 1. <hi>Corinthians. 5. 2. 2. Peter</hi> 2. 7.</p>
+               <p>That keepeth company with fornicators, 1. <hi>Cor. 5. 9. Prou.</hi> 29. 3.</p>
+               <p>That giues himſelfe to eaſe and pleaſure, <hi>Amos 6. 4, 5, 6. Tit.</hi> 1. 12.</p>
+               <p>That vſeth laſciuious dancing, <hi>Zeph. 1. 9. Marke</hi> 6. 22.</p>
+               <p>That vſeth laſciuious bookes or pictures, 1. <hi>Theſ<g ref="char:EOLhyphen"/>ſal. 5. 23. 1. Corinthians</hi> 15. 35.</p>
+               <p>That hauing not the gift
+<pb n="133" facs="tcp:150818:80"/> of Continency, doth not marry, 1. <hi>Cor.</hi> 7. 2.</p>
+               <p>That diſpoſeth not his children in mariage, 1. <hi>Cor.</hi> 7. 37.</p>
+               <p>That ſorteth with wine<g ref="char:EOLhyphen"/>bibbers, and the riotous, <hi>Prou.</hi> 23. 20.</p>
+               <p>That is deſirous of dain<g ref="char:EOLhyphen"/>ties, or any way giuen to gluttony, <hi>Prou. 23. 3. Ierem.</hi> 5. 7, 8.</p>
+               <p>That is giuen to prat<g ref="char:EOLhyphen"/>ling or idle gadding from houſe to houſe, <hi>Prou. 7. 11. 1. Tim.</hi> 5. 13.</p>
+               <p>That vſeth whooriſh at<g ref="char:EOLhyphen"/>tire, or perfumes, <hi>Prou. 7. 10, 16, 17. Zephaniah</hi> 1. 8.</p>
+               <pb n="134" facs="tcp:150818:81"/>
+               <p>That vſeth the attire of another ſexe, <hi>Deuteronomy</hi> 22. 9.</p>
+               <p>That beguiles another in marriage by error of perſon, ſtate, or diſeaſe, or the like, <hi>Geneſis</hi> 29. 25.</p>
+               <p>That marrieth without conſent of parents, <hi>Geneſ.</hi> 26. 34, 35.</p>
+               <p>That is guilty of drun<g ref="char:EOLhyphen"/>kenneſſe, or vſeth exceſ<g ref="char:EOLhyphen"/>ſiue drinking, 1. <hi>Pet.</hi> 4. 4.</p>
+               <p>The aggrauations of drunkenneſſe, are,</p>
+               <p>To take a pride in it, <hi>Eſay</hi> 28. 1.</p>
+               <p>To be mighty to drinke wine, <hi>Eſay</hi> 5. 22.</p>
+               <pb n="135" facs="tcp:150818:81"/>
+               <p>To continue long at it, <hi>Eſay 15. 11. Prouerbs</hi> 23. 30 33.</p>
+               <p>To make others drunk, <hi>Hab.</hi> 2. 15.</p>
+               <p>Thus of ſinnes againſt <hi>Chastity.</hi>
+               </p>
+            </div>
+            <div n="11" type="chapter">
+               <pb n="136" facs="tcp:150818:82"/>
+               <head>CHAP. XI.</head>
+               <argument>
+                  <p>Shewing the ſinnes againſt mans eſtate.</p>
+               </argument>
+               <p>THe ſinnes againſt the eſtates of men follow, and theſe are eyther inter<g ref="char:EOLhyphen"/>nall, or externall.</p>
+               <p>Internall, and ſo hee of<g ref="char:EOLhyphen"/>fends,</p>
+               <p>That is diſcontented with his eſtate, <hi>Heb.</hi> 13. 5.</p>
+               <p>That is worldly, and di<g ref="char:EOLhyphen"/>ſtreſſeth himſelf with boot<g ref="char:EOLhyphen"/>leſſe cares about his eſtate, <hi>Prou. 15. 27. Math. 6. 25, 34 Luke</hi> 21. 34.</p>
+               <p>That delights not in his
+<pb n="137" facs="tcp:150818:82"/> calling, <hi>Prou.</hi> 12. 17.</p>
+               <p>That is couetous, and in loue with the things of this world, <hi>Eph. 5. 5. 1. Tim. 6. 10. 1. Iohn.</hi> 2. 15.</p>
+               <p>The externall ſins fol<g ref="char:EOLhyphen"/>low, and ſo men offend both by Omiſſion, and Commiſſion.</p>
+               <p>By Omiſſion he offends,</p>
+               <p>That implies not the good things he hath, <hi>Iam.</hi> 5. 2, 3.</p>
+               <p>That relieues not the poore, and ſo with-holdeth the good from the owner thereof, <hi>Prou.</hi> 3. 28.</p>
+               <p>The aggrauations are,</p>
+               <p>To forſake the poore, <hi>Iob</hi> 20. 19.</p>
+               <pb n="138" facs="tcp:150818:83"/>
+               <p>To hide his eyes from the poore, <hi>Prou.</hi> 28. 9.</p>
+               <p>That brings not foorth his corne to ſell, <hi>Prou.</hi> 11. 26.</p>
+               <p>That detaines wages, <hi>Ier. 22. 23. Leuit. 19. 23. Iames</hi> 5. 4.</p>
+               <p>That payes not what he hath borrowed, <hi>Pſal.</hi> 37. 21.</p>
+               <p>That is idle, and neg<g ref="char:EOLhyphen"/>lects his calling, <hi>Eccl.</hi> 4. 5. and of this ſinne he is guil<g ref="char:EOLhyphen"/>ty alſo,</p>
+               <p>That with-draweth not his foote from his neigh<g ref="char:EOLhyphen"/>bours houſe, <hi>Prou. 25. 17. 1. Tim.</hi> 5. 13.</p>
+               <p>That is giuen to much ſleepe, <hi>Prou.</hi> 6. 9, 10.</p>
+               <pb n="139" facs="tcp:150818:83"/>
+               <p>That is ſtacke in buſines, <hi>Prou.</hi> 10. 4. &amp; 14. 13.</p>
+               <p>That neglects the oppor<g ref="char:EOLhyphen"/>tunities of his calling, <hi>Pro.</hi> 10. 5.</p>
+               <p>The aggrauations are,</p>
+               <p>To be pertinacious in the defence of it, <hi>Prou.</hi> 26. 16.</p>
+               <p>To be a buſie-body in o<g ref="char:EOLhyphen"/>ther folks matters, 2. <hi>Theſ.</hi> 3. 11.</p>
+               <p>That is ſlothfull in the buſines of others, <hi>Prou.</hi> 26.</p>
+               <p>That prouides not for his family, 1. <hi>Tim.</hi> 5. 8.</p>
+               <p>Thus of ſinnes of Omiſ<g ref="char:EOLhyphen"/>ſion.</p>
+               <p>By Commiſſion hee of<g ref="char:EOLhyphen"/>fends,</p>
+               <p>That ſteales, robs or pil<g ref="char:EOLhyphen"/>fers,
+<pb n="140" facs="tcp:150818:84"/> which is the ſin men<g ref="char:EOLhyphen"/>tioned in the eighth com<g ref="char:EOLhyphen"/>mandement.</p>
+               <p>That ſteales by conſe<g ref="char:EOLhyphen"/>quent; as he doth</p>
+               <p>That is an Vſurer, <hi>Exod. 22. 25. Leuit. 25. 36. Deut.</hi> 23. 19.</p>
+               <p>That is guilty of Oppreſ<g ref="char:EOLhyphen"/>ſion, <hi>Iob 31. 38, 39. Amos 4. 1. Prou. 4. 17. Eſay</hi> 5. 8. &amp; 30. 12. eſpecially hee that loues oppreſſion, <hi>Hoſ. 12. 7. Micha</hi> 2. 9.</p>
+               <p>That vſeth fraud in buy<g ref="char:EOLhyphen"/>ing and ſelling, in mete<g ref="char:EOLhyphen"/>yard, waight or meaſure, <hi>Deutero.</hi> 25. 13, 14, 15. and hee is guilty of this ſinne alſo,</p>
+               <pb n="141" facs="tcp:150818:84"/>
+               <p>That ſelleth refuſe, <hi>Mi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ha</hi> 6.</p>
+               <p>That makes aduantage of the pouerty of others, <hi>Leuiticus</hi> 25. 39. &amp;c. <hi>Prou.</hi> 22. 22.</p>
+               <p>That takes the mil-ſtone to pledge, &amp;c. <hi>Deuteronomy</hi> 24. 6. 12.</p>
+               <p>That beeing a buyer, ſaith, It is naught, con<g ref="char:EOLhyphen"/>trary to his owne iudge<g ref="char:EOLhyphen"/>ment: and ſo likewiſe on the other ſide, that beeing a ſeller, doth com<g ref="char:EOLhyphen"/>mend it for good, when he knowes it is not ſo, <hi>Pro.</hi> 21. 14.</p>
+               <p>That vſeth any other
+<pb n="142" facs="tcp:150818:85"/> fraud, though it be not in buying or ſelling, 1. <hi>Theſ.</hi> 4. 6.</p>
+               <p>And this ſinne of ſtea<g ref="char:EOLhyphen"/>ling is to be extended fur<g ref="char:EOLhyphen"/>ther alſo, as</p>
+               <p n="1">1. To leſſer ſtealths, as robbing of Vineyards, or Orchards, or corne in the field, <hi>Deut.</hi> 23. 24, 25.</p>
+               <p n="2">2. To raſh ſuretiſhip, <hi>Prou.</hi> 6. 1, 2. &amp; 22. 26.</p>
+               <p n="3">3. To extreamities vſed in recouering our owne rights, <hi>Iob.</hi> 24. 3, 4, 9, 10.</p>
+               <p>To not reſtoring of euill gotten goods, <hi>Ez<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>h.</hi> 33. 15</p>
+               <p n="5">5. To remouing of land<g ref="char:EOLhyphen"/>markes, <hi>Deut.</hi> 19. 14.</p>
+               <p n="6">6. To liuing in vnlawful
+<pb n="143" facs="tcp:150818:85"/> callings, ſuch as begging is, 2. <hi>Theſ.</hi> 3. 11.</p>
+               <p n="7">7. To vnthriftineſſe in following vaine perſons, or ſpending prodigally on pleaſures, or diet, <hi>Prouerbs</hi> 12. 11. &amp; 21. 27. &amp; 22. 22. &amp; 23. 26.</p>
+               <p n="8">8. To the concealing of Theft, <hi>Prou.</hi> 29. 24.</p>
+               <p n="9">9. To the Lordly vſage of the borrower, <hi>Prouerbs</hi> 22. 7.</p>
+               <p>The aggrauations of the ſinne of ſtealing are,</p>
+               <p>To take from the poore, <hi>Deuteronomy. 24. 14. Iob</hi> 20. 19.</p>
+               <p>To reproue it in others, and yet commit it him<g ref="char:EOLhyphen"/>ſelfe,
+<pb n="144" facs="tcp:150818:86"/> 
+                  <hi>Romanes</hi> 2. 21.</p>
+               <p>To do it vnder pretence of Religion, 2. <hi>Corinth.</hi> 11. 20.</p>
+               <p>To oppreſſe ſtrangers or widdowes, or the father<g ref="char:EOLhyphen"/>leſſe, <hi>Exodus</hi> 22. 21, 22.</p>
+               <p>To bleſſe the couetous, <hi>Pſal.</hi> 10. 3.</p>
+               <p>To commit it in the place of iudgement, by peruer<g ref="char:EOLhyphen"/>ting of Iuſtice, or by ex<g ref="char:EOLhyphen"/>tortion, <hi>Ezekiel.</hi> 22. 12. or by bribery, <hi>Amos 5. 12. Ex<g ref="char:EOLhyphen"/>odus</hi> 23. 8. or by refuſing to to doe Iuſtice, <hi>Prouerbs.</hi> 21. 7.</p>
+               <p>To ſteale thy Maſters goods, <hi>Tit.</hi> 2.</p>
+               <p>To ſteale conſecrated
+<pb n="145" facs="tcp:150818:86"/> things by ſacriledge, or ſi<g ref="char:EOLhyphen"/>mony, <hi>Mal. 3. 8. Acts</hi> 8. 18, 20.</p>
+               <p>To ſteale a man or maid, <hi>Exod.</hi> 22. 16.</p>
+            </div>
+            <div n="12" type="chapter">
+               <pb n="146" facs="tcp:150818:87"/>
+               <head>CHAP. XII.</head>
+               <p>THus of the ſinnes a<g ref="char:EOLhyphen"/>gainſt mans goods.</p>
+               <p>The ſinnes againſt mens good name follow, and ſo men offend by Omiſſion, or by Commiſſion.</p>
+               <p>By Omiſſion hee of<g ref="char:EOLhyphen"/>fends,</p>
+               <p>That ſets not forth righ<g ref="char:EOLhyphen"/>teouſneſſe, <hi>Prou.</hi> 12. 9.</p>
+               <p>That doth not cleere or deliuer the afflicted, when he may, <hi>Gen.</hi> 40. 23.</p>
+               <p>That diſgraceth others, by forbearing their com<g ref="char:EOLhyphen"/>pany without iuſt cauſe, <hi>Iob 19. 3, 19. Pſal.</hi> 58. 3.</p>
+               <pb n="147" facs="tcp:150818:87"/>
+               <p>That is vnthankefull, 1. <hi>Tim.</hi> 3. 2.</p>
+               <p>By Commiſſion men of<g ref="char:EOLhyphen"/>fend, Internally, or Exter<g ref="char:EOLhyphen"/>nally.</p>
+               <p>Internally he offends,</p>
+               <p>That deſpiſeth his neigh<g ref="char:EOLhyphen"/>bour in his thoughts, <hi>Prou.</hi> 14. 21.</p>
+               <p>That diſdaines at the credit and praiſe of others, as the Phariſes did.</p>
+               <p>That thirſts after all oc<g ref="char:EOLhyphen"/>caſions of the contempt of others, <hi>Iob</hi> 34. 7.</p>
+               <p>That is ſuſpicious, and thinketh euill, 1. <hi>Cor.</hi> 12. 5.</p>
+               <p>Externally men offend,</p>
+               <p n="1">1. In witneſſe-bearing, and ſo he offends,</p>
+               <pb n="148" facs="tcp:150818:88"/>
+               <p>That condemnes a man without witneſſe, <hi>Deut.</hi> 19. 15.</p>
+               <p>That beares falſe wit<g ref="char:EOLhyphen"/>neſſe.</p>
+               <p>That is fearefull to beare witneſſe to the Truth, <hi>Reu.</hi> 21. 8.</p>
+               <p>That furthers the euill cauſes of wicked men, <hi>Exo.</hi> 23. 1.</p>
+               <p n="2">2. In lying, <hi>Reuelat.</hi> 22. 15. and the blame of this ſinne reacheth,</p>
+               <p>To ſuch as vſe diſſimula<g ref="char:EOLhyphen"/>tion, <hi>Gal.</hi> 2. 25.</p>
+               <p>To ſuch as ſpeak vntruth for feare, <hi>Gen.</hi> 38. 2.</p>
+               <p>The aggrauations of ly<g ref="char:EOLhyphen"/>ing are,</p>
+               <pb n="149" facs="tcp:150818:88"/>
+               <p>To loue lyes, <hi>Reuclat. 22. 15. Pſal.</hi> 52. 3.</p>
+               <p>To hate thoſe thou haſt wronged with thy lyes, <hi>Pro. 26. vlt.</hi>
+               </p>
+               <p>To breake promiſe, 2. <hi>Tim.</hi> 3. 3.</p>
+               <p>To preach falſhoods, 1. <hi>Cor.</hi> 15. 15.</p>
+               <p>To ſay one hath no ſin, 1. <hi>Iohn</hi> 1. 8.</p>
+               <p>To ſay to men in diſtreſs, There is no helpe, <hi>Pſal. 3. 2. Iob</hi> 13. 14.</p>
+               <p>To colour ſin with pre<g ref="char:EOLhyphen"/>tence of Religion, <hi>Marke</hi> 12. 40.</p>
+               <p n="3">3. In ſlandering and e<g ref="char:EOLhyphen"/>uill reports, <hi>Ex.</hi> 23. 1. which is to be extended alſo to</p>
+               <p n="1">
+                  <pb n="150" facs="tcp:150818:89"/>1. Biting ieſts, <hi>Epheſ.</hi> 5. 4.</p>
+               <p n="2">2. To reuealing of ſe<g ref="char:EOLhyphen"/>cret infirmities, <hi>Prou.</hi> 11. 13. &amp; 20. 19.</p>
+               <p n="3">3. To the carying about of tales, <hi>Leuit. 19. 16. Prou.</hi> 16. 28.</p>
+               <p n="4">4. To the receiuing &amp; furthering of ſlanders, <hi>Ier.</hi> 20. 10.</p>
+               <p n="5">5. To the wreſting of mens words, or telling the truth of malice, 1. <hi>Sam. 22. 9, 10. Pſal.</hi> 52. 1, 2.</p>
+               <p>The aggrauations of ſlander are,</p>
+               <p n="1">1. To encourage them<g ref="char:EOLhyphen"/>ſelues in an euill matter, and to commune together
+<pb n="151" facs="tcp:150818:89"/> about it, <hi>Pſal.</hi> 64. 5.</p>
+               <p n="2">2. To boaſt of his wic<g ref="char:EOLhyphen"/>kedneſſe therein, <hi>Pſalme</hi> 52. 1.</p>
+               <p n="3">3. To ſlander the righ<g ref="char:EOLhyphen"/>teous, and quiet of the land, <hi>Pſalme.</hi> 31. 18. &amp; 59. 2. &amp; 102. 8. &amp; 35. 20. &amp; 83. 3, 5. &amp; 4. 2.</p>
+               <p n="4">4. To raiſe euill report of his parents, <hi>Geneſis</hi> 9. 22</p>
+               <p n="5">5. To fill the eares of Princes with clamour, <hi>Hoſ.</hi> 3. 8.</p>
+               <p n="6">6. To be a make-bate, or a railer, 1. <hi>Cor. 6. 9. 2. Tim.</hi> 3. 3.</p>
+               <p n="4">4. In cenſuring &amp; iudg<g ref="char:EOLhyphen"/>ing, <hi>Iam.</hi> 2. 4.</p>
+               <p>The aggrauations are,</p>
+               <pb n="152" facs="tcp:150818:90"/>
+               <p>To ſearch and pry for faults in others, that he might cenſure them, <hi>Pſal. 64. 6. Prou.</hi> 16. 27.</p>
+               <p>To doe it for things in<g ref="char:EOLhyphen"/>different, <hi>Rom.</hi> 14.</p>
+               <p>To cenſure ſmall faults in others, and to be guilty of great offences himſelfe, <hi>Math.</hi> 7.</p>
+               <p n="5">5. In vaine-glory and minding too much our owne praiſes.</p>
+               <p>And ſo alſo he offends,</p>
+               <p>That boaſteth of a falſe gift, <hi>Prou.</hi> 27. 1.</p>
+               <p>That iuſtifieth himſelfe ouer-much, <hi>Iob</hi> 35. 2.</p>
+               <p>That boaſts of to mor<g ref="char:EOLhyphen"/>row, <hi>Prou.</hi> 17. 1.</p>
+               <pb n="153" facs="tcp:150818:90"/>
+               <p>That meaſures himſelfe by himſelfe, 2. <hi>Cor.</hi> 10. 12.</p>
+               <p n="6">6. In flattery, <hi>Pſal. 12. 3. Prou.</hi> 27. 14. &amp; 26. 26.</p>
+               <p n="7">7. In iuſtifying the wic<g ref="char:EOLhyphen"/>ked, <hi>Prouerbs</hi> 15. 15. &amp; 24. 24.</p>
+            </div>
+            <div n="13" type="chapter">
+               <pb n="154" facs="tcp:150818:91"/>
+               <head>CHAP. XIII.</head>
+               <p>HItherto of the ſinnes with conſent of the will.</p>
+               <p>The ſinnes before con<g ref="char:EOLhyphen"/>ſent of the will, are:</p>
+               <p n="1">1. To want deſire of the good and welfare ey<g ref="char:EOLhyphen"/>ther of himſelfe, or other men.</p>
+               <p n="2">2. To conceiue euill thoughts, <hi>Math.</hi> 15. 19. or couet euill.</p>
+               <p n="3">3. To delight in the in<g ref="char:EOLhyphen"/>ward contemplation of e<g ref="char:EOLhyphen"/>uill, whether in dreames<g ref="char:punc">▪</g> or awake, though it bee without purpoſe to act
+<pb n="155" facs="tcp:150818:91"/> them outwardly, <hi>Iude 8. Iam.</hi> 1. 14.</p>
+               <p>Hitherto of the ſinnes a<g ref="char:EOLhyphen"/>gainſt the Law.</p>
+            </div>
+            <div n="14" type="chapter">
+               <pb n="156" facs="tcp:150818:92"/>
+               <head>CHAP. XIIII.</head>
+               <argument>
+                  <p>Shewing how many waies men offend againſt the Goſpell.</p>
+               </argument>
+               <p>THe ſinnes againſt the Goſpell may be refer<g ref="char:EOLhyphen"/>red to foure heads, as they are ſinnes,</p>
+               <p>Againſt Chriſt.</p>
+               <p>Againſt Repentance.</p>
+               <p>Againſt Faith.</p>
+               <p>Againſt the graces of the Spirit.</p>
+               <p n="1">1. Hee ſinnes againſt Chriſt,</p>
+               <p>That ſaith he is Chriſt, <hi>Math.</hi> 24.</p>
+               <pb n="157" facs="tcp:150818:92"/>
+               <p>That denyeth directly, or by conſequent, that Chriſt is come in the fleſh, 1. <hi>Iohn.</hi> 4: 3. &amp; 2. 23.</p>
+               <p>That hath baſe thoughts of Chriſt, <hi>Eſay</hi> 53. 3.</p>
+               <p>That ſaith, hee hath no ſinne, 1. <hi>Iohn</hi> 1. 7, 8, 10.</p>
+               <p>That worſhips God with<g ref="char:EOLhyphen"/>out Chriſt, <hi>Ioh. 17. 3. 1. Ioh.</hi> 2. 23.</p>
+               <p>That vſeth not Chriſt as his owne and only Aduo<g ref="char:EOLhyphen"/>cate, 1. <hi>Iohn 2. 1. 2. Tim.</hi> 2. 5.</p>
+               <p>That loues not the Lord Ieſus Chriſt with inflamed affections, 1. <hi>Corin. 16. 12. Epheſ. 6. 24. Phil.</hi> 3. 9.</p>
+               <p n="2">2. The ſins againſt re<g ref="char:EOLhyphen"/>pentance.</p>
+               <pb n="158" facs="tcp:150818:93"/>
+               <p>That confeſſeth not his ſinnes without hiding, di<g ref="char:EOLhyphen"/>ſtinctly, <hi>Prou. 28. 13. Pſalm.</hi> 32. 5.</p>
+               <p>That mournes not for his ſinnes, <hi>Ierem.</hi> 5. 2.</p>
+               <p>That forſakes not his ſinnes, <hi>Prou.</hi> 28. 13.</p>
+               <p>Yea hee ſinnes againſt repentance,</p>
+               <p>That repents faynedly, <hi>Ier.</hi> 3. 10.</p>
+               <p>That repents deſperate<g ref="char:EOLhyphen"/>ly, as <hi>Cain</hi> and <hi>Iudas.</hi>
+               </p>
+               <p>That repents too late, <hi>Iob</hi> 27. 9.</p>
+               <p>That repents by halues, and in ſome things onely, as <hi>Ahab</hi> and <hi>Herod.</hi>
+               </p>
+               <p>That falls away from his
+<pb n="159" facs="tcp:150818:93"/> repentance, 2. <hi>Pet.</hi> 2. 19, 20.</p>
+               <p>The aggrauations are,</p>
+               <p>To be wiſe to doe euill, <hi>Ierem.</hi> 4. 22.</p>
+               <p>To purſue euill, <hi>Prouerbs</hi> 11. 9.</p>
+               <p>To reioyce in doing e<g ref="char:EOLhyphen"/>uill, and make a mocke of ſinne, <hi>Prou.</hi> 2. 14. &amp; 14.</p>
+               <p>To bee without ſhame, and to declare his ſinne like the Sodomites, <hi>Iſaiah 5. 9. Ierem.</hi> 3. 3.</p>
+               <p>To be incorrigible, <hi>Ier.</hi> 5. 2.</p>
+               <p>To frette, becauſe hee is croffed in ſinne, <hi>Prou.</hi> 19. 3.</p>
+               <p>To bleſſe himſelf againſt the curſes of the Law, <hi>Deut.</hi> 29. 19.</p>
+               <pb n="160" facs="tcp:150818:94"/>
+               <p>To freeze in ſecurity, <hi>Zeph.</hi> 1. 12.</p>
+               <p>To refuſe to returne.</p>
+               <p n="3">3. Hee ſinnes againſt Faith,</p>
+               <p>That beleeues not in Ie<g ref="char:EOLhyphen"/>ſus Chriſt for his Iuſtifica<g ref="char:EOLhyphen"/>tion and ſaluation, <hi>Iohn</hi> 3. 17.</p>
+               <p>Yea he offends,</p>
+               <p>That is careleſſe, &amp; neg<g ref="char:EOLhyphen"/>lects the aſſurance of faith, <hi>Hebr. 6. 12. Rom.</hi> 1. 16.</p>
+               <p>That in affliction doubts of Gods fauour and good<g ref="char:EOLhyphen"/>neſſe, <hi>Eſay</hi> 41. &amp; 49. 15.</p>
+               <p>The aggrauations.</p>
+               <p>Not to ſeeke after God at all, <hi>Zeph.</hi> 1. 6.</p>
+               <p>Not to ſtir vp our ſelues
+<pb n="161" facs="tcp:150818:94"/> to take hold on God, when mercy is offered, <hi>Eſay</hi> 64. 7.</p>
+               <p>Not to anſwere when God calls, <hi>Eſay</hi> 50. 2.</p>
+               <p>To forſake our owne mercy, or ſcoffe at the ſignes of it, <hi>Ion.</hi> 2. 8.</p>
+               <p n="4">4. He ſinnes againſt the graces of the Spirit,</p>
+               <p n="1">1. That receiues the grace of God in vaine, 2. <hi>Cor.</hi> 6. 5.</p>
+               <p n="2">2. That turns the grace of God into wantonneſſe, <hi>Iude</hi> 3.</p>
+               <p n="3">3. That falls away from the grace of God, eyther wholly by forſaking the ac<g ref="char:EOLhyphen"/>knowledgement of the Truth, 2. <hi>Pet.</hi> 2. 20. Or in
+<pb n="162" facs="tcp:150818:95"/> the meaſure, by loſing his firſt loue, <hi>Reuel.</hi> 2.</p>
+               <p n="4">4. That tempts, grieues, or quencheth the Spirit: <hi>Epheſ. 4. 30. 1. Theſ.</hi> 1. 19.</p>
+               <p n="5">5. That deſpights the Spirit of Grace, and of ma<g ref="char:EOLhyphen"/>lice perſecutes the knowne truth, which is the ſinne a<g ref="char:EOLhyphen"/>gainſt the holy Ghoſt, <hi>Hebr.</hi> 10. 26.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:150818:95"/>
+         </div>
+      </body>
+   </text>
+</TEI>
